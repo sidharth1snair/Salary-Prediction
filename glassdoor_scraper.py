@@ -9,12 +9,11 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     options = webdriver.ChromeOptions()
     options.add_argument("--start-maximized")
     from selenium.webdriver.chrome.service import Service
-    # options.binary_location = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
 
-    url = f"https://www.glassdoor.co.in/Job/jobs.htm?sc.keyword={keyword}"
+    url = f"https://www.glassdoor.co.in/Job/data-scientist-jobs-SRCH_IN115_KO0,14.htm?sortBy=date_desc"
     driver.get(url)
     jobs = []
 
@@ -23,7 +22,6 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     while len(jobs) < num_jobs:
         time.sleep(slp_time)
 
-        # Close pop-ups if any
         try:
             driver.find_element(By.CLASS_NAME, "eigr9kq2").click()
         except ElementClickInterceptedException:
@@ -43,7 +41,6 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             if len(jobs) >= num_jobs:
                 break
 
-            # 🛡️ Handle sign-in popup again if it reappears
             try:
                 driver.find_element(By.CLASS_NAME, "CloseButton").click()
                 print("✅ Closed popup during job loop.")
@@ -54,13 +51,18 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
             try:
                 job_card.click()
-                time.sleep(2)
-
-        # Continue with scraping as before...
+                time.sleep(3)
 
 
                 job_title = driver.find_element(By.CSS_SELECTOR, 'h1[id^="jd-job-title"]').text
-                company_name = driver.find_element(By.CSS_SELECTOR, "a[class*='EmployerProfile_profileContainer']").text
+                try:
+                    company_name = driver.find_element(By.CSS_SELECTOR, "a[class*='EmployerProfile_profileContainer']").text
+                except NoSuchElementException:
+                    try:
+                        # Sometimes it's just plain text in a <span> or <div>
+                        company_name = driver.find_element(By.CSS_SELECTOR, "div[data-test='employerName']").text
+                    except NoSuchElementException:
+                        company_name = "N/A"
                 location = driver.find_element(By.CSS_SELECTOR, '[data-test="location"]').text
 
                 try:
@@ -97,18 +99,8 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
         # Scroll to load more jobs
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         print("🔄 Scrolled to load more jobs...")
-        time.sleep(3)
+        time.sleep(2)
 
-        # try:
-        #     next_button = driver.find_element(By.XPATH, '//button[@data-test="pagination-next"]')
-        #     if next_button.is_enabled():
-        #         next_button.click()
-        #     else:
-        #         print("No more pages.")
-        #         break
-        # except NoSuchElementException:
-        #     print("Next button not found.")
-        #     break
 
     driver.quit()
     return pd.DataFrame(jobs)
@@ -116,14 +108,14 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 if __name__ == "__main__":
     # Parameters
     keyword = "Data Scientist"
-    num_jobs = 30
+    num_jobs = 500
     verbose = True
-    path = "C:/Users/sidha/Desktop/ds_salary_proj/chromedriver.exe"  # Update with the correct path on your system
-    slp_time = 5  # Adjust based on your internet speed
+    path = "C:/Users/sidha/Desktop/ds_salary_proj/chromedriver.exe"  
+    slp_time = 1  # Adjust based on your internet speed
 
     # Run scraper
     df = get_jobs(keyword, num_jobs, verbose, path, slp_time)
 
-    # Save to CSV (optional)
+    # Save to CSV 
     df.to_csv("glassdoor_jobs.csv", index=False)
-    print("\nSaved scraped data to 'glassdoor_jobs.csv'")
+    print("\nSaved scraped data to 'glassdoor_jobs_date_desc.csv'")
