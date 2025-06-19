@@ -1,0 +1,309 @@
+Location,Rating,monthly,min_salary_rupees,max_salary_rupees,avg_salary_rupees,company_name_cleaned
+Bhubaneshwar,4.3,0,1000000,2300000,1650000.0,Nirmalya Labs
+Bengaluru,3.7,0,600000,1000000,800000.0,Citi
+Bengaluru,3.7,0,500000,1000000,750000.0,Citi
+Bengaluru,4.0,0,1000000,1000000,1000000.0,TransUnion
+Pune,3.7,0,500000,600000,550000.0,Ecolab Inc.
+Bengaluru,3.6,0,500000,1000000,750000.0,ADCI - Karnataka
+Bengaluru,4.1,0,400000,1000000,700000.0,McKinsey & Company
+Gurgaon,4.0,0,700000,900000,800000.0,Gartner
+Surat,3.8,1,35000,35000,35000.0,Stratefix Consulting
+Hyderābād,3.9,0,500000,1000000,750000.0,"World Wide Technology Holding, LLC"
+Gurgaon,3.2,0,400000,500000,450000.0,Sprinklr
+Hyderābād,4.4,1,20000,30000,25000.0,Fireblaze AI School
+Bengaluru,3.7,0,500000,800000,650000.0,Relyance AI
+Noida,3.5,0,300000,800000,550000.0,Product and Technology
+Bengaluru,2.9,0,300000,700000,500000.0,Ansira
+Bengaluru,3.5,0,800000,900000,850000.0,Factspan
+Chennai,4.0,0,800000,1000000,900000.0,Brillio
+Bengaluru,4.2,0,700000,800000,750000.0,Lowe's
+Bengaluru,3.6,0,600000,1000000,800000.0,Bluevine - India
+Hyderābād,4.1,0,500000,700000,600000.0,S&P Global
+Bengaluru,3.5,0,300000,400000,350000.0,Factspan
+Bengaluru,3.7,0,600000,800000,700000.0,PwC
+Bengaluru,4.0,0,600000,800000,700000.0,Lilly
+Ahmedabad,3.7,0,300000,800000,550000.0,"Arrow Electronics, Inc."
+Hyderābād,4.0,0,400000,400000,400000.0,Synopsys
+Bengaluru,4.2,0,200000,400000,300000.0,SAP
+Bengaluru,4.3,0,100000,900000,500000.0,Google
+Pune,3.6,0,800000,1100000,950000.0,Equifax
+Pune,,0,200000,800000,500000.0,UNITY Systems
+Bengaluru,4.1,0,300000,900000,600000.0,Thomson Reuters
+Bengaluru,3.5,0,300000,300000,300000.0,Atos
+Bengaluru,3.8,0,900000,1000000,950000.0,Genpact
+Vadodara,3.8,0,500000,1100000,800000.0,NielsenIQ
+India,2.5,0,1600000,2000000,1800000.0,Scymes Services PVT. LTD.
+Chennai,4.2,0,200000,500000,350000.0,Toyota Connected India
+Pune,3.6,0,400000,900000,650000.0,Wipro Limited
+Mumbai,4.1,0,300000,1000000,650000.0,XS CAD India Pvt. Ltd
+Bengaluru,3.8,0,200000,200000,200000.0,Commonwealth Bank
+Pune,3.7,0,800000,900000,850000.0,Johnson Controls
+Pune,3.9,0,500000,800000,650000.0,Cybage
+Bengaluru,4.2,0,400000,400000,400000.0,Target
+Bengaluru,3.8,0,300000,1000000,650000.0,o9 Solutions
+Bengaluru,3.7,0,700000,1000000,850000.0,LSEG (London Stock Exchange Group)
+Chennai,3.8,0,700000,800000,750000.0,Comcast
+Mumbai,3.8,0,1000000,1100000,1050000.0,Argus Media
+Mumbai,3.7,0,700000,800000,750000.0,WRI India
+Mumbai,3.8,0,1000000,1200000,1100000.0,Abbott Laboratories
+Bengaluru,3.7,0,300000,400000,350000.0,CGI
+Bengaluru,3.8,0,1000000,1000000,1000000.0,Standard Chartered
+,3.6,0,400000,900000,650000.0,Securonix
+Bengaluru,3.6,0,2400000,200000,1300000.0,Okta
+Bengaluru,4.2,0,600000,900000,750000.0,Quantiphi
+Chennai,3.8,0,700000,900000,800000.0,Standard Chartered
+Bengaluru,3.8,0,600000,900000,750000.0,Visa
+Bengaluru,3.9,0,500000,1000000,750000.0,eBay
+Bengaluru,3.6,0,500000,900000,700000.0,nVent
+Chennai,4.1,0,700000,900000,800000.0,Fidelity Investments
+Bengaluru,3.9,0,500000,600000,550000.0,Nutanix
+Delhi,3.6,0,600000,1200000,900000.0,Applore Technologies Pvt. Ltd
+Noida,3.6,0,800000,1000000,900000.0,Clarivate
+,3.6,0,1000000,1000000,1000000.0,Qualys
+Mumbai,4.5,0,500000,900000,700000.0,INCHES Healthcare
+Hyderābād,4.2,0,300000,1000000,650000.0,Microsoft
+Bengaluru,3.7,0,400000,600000,500000.0,MOLECULAR CONNECTIONS
+Hyderābād,3.6,0,300000,1000000,650000.0,ADCI HYD 13 SEZ
+Hyderābād,4.1,0,600000,800000,700000.0,Thomson Reuters
+Bengaluru,3.7,0,700000,1000000,850000.0,AWS ProServe IN - Karnataka
+Bengaluru,4.1,0,700000,1000000,850000.0,Fidelity Investments
+Cochin,5.0,1,15000,20000,17500.0,TECACS IT GROUP PVT LTD
+Noida,4.3,0,700000,800000,750000.0,CoreLogic
+Hyderābād,3.8,0,500000,900000,700000.0,NTT DATA
+Mohali,3.9,1,30000,80000,55000.0,iTechnolabs
+Gurgaon,3.7,0,400000,600000,500000.0,Infogain
+Coimbatore,4.0,0,400000,800000,600000.0,"EPAM Systems, Inc."
+Mumbai,3.7,0,600000,900000,750000.0,AWS ProServe IN - Maharashtra
+Bengaluru,4.2,0,500000,600000,550000.0,Cybernetyx
+Gurgaon,4.1,0,600000,600000,600000.0,Paxcom India
+Bengaluru,4.1,0,500000,800000,650000.0,Thomson Reuters
+Bengaluru,4.1,0,500000,600000,550000.0,Autodesk
+Gurgaon,4.4,0,400000,900000,650000.0,TRU IT
+Mumbai,3.7,0,400000,600000,500000.0,Infogain
+Gurgaon,4.1,0,400000,600000,500000.0,Amex
+Hyderābād,3.9,0,500000,900000,700000.0,Deloitte
+Bengaluru,3.6,0,400000,900000,650000.0,Carrier
+Gurgaon,3.8,0,900000,1000000,950000.0,United Airlines
+Bengaluru,3.6,0,300000,700000,500000.0,Credit Saison
+Bengaluru,4.1,0,200000,700000,450000.0,Thomson Reuters
+Bengaluru,3.1,0,500000,900000,700000.0,Tether Operations Limited
+Pune,3.7,0,200000,900000,550000.0,FIS Global
+Ahmedabad,3.6,0,400000,400000,400000.0,NexusLink Services
+Hyderābād,3.8,0,700000,800000,750000.0,Genpact
+,4.2,1,15000,25000,20000.0,CompIndia Infotech Pvt Ltd
+Bengaluru,4.2,0,600000,900000,750000.0,Reflections Info Systems
+Madurai,4.0,1,12000,18000,15000.0,Elysium Group of Companies
+Bengaluru,3.8,0,400000,1000000,700000.0,Tesco India
+Bengaluru,3.6,0,600000,700000,650000.0,Wipro Limited
+Bengaluru,4.1,0,600000,1000000,800000.0,Apple
+Chennai,3.6,0,400000,600000,500000.0,Wipro Limited
+Mumbai,3.9,0,300000,1000000,650000.0,Savic
+India,4.3,0,300000,800000,550000.0,Itvedant Education Pvt Ltd
+Noida,3.9,0,800000,900000,850000.0,Barclays
+Pune,3.7,0,800000,1000000,900000.0,Johnson Controls
+Bengaluru,3.6,0,500000,600000,550000.0,Dentsu
+Noida,3.9,0,800000,1000000,900000.0,Barclays
+India,3.7,1,20000,30000,25000.0,i-Sourcing Technologies Private Limited
+,4.2,0,500000,1600000,1050000.0,Rapsys Technologies
+Remote,,0,1000000,1500000,1250000.0,GiantMind Solutions
+Bengaluru,4.0,0,400000,900000,650000.0,Ericsson
+Hyderābād,4.4,0,300000,800000,550000.0,Acads360 India Private Limited
+Pune,4.2,0,200000,200000,200000.0,Mastercard
+Remote,,0,1500000,2500000,2000000.0,Nithminds Private limited
+Thiruvananthapuram,4.2,1,8000,15000,11500.0,Avodha Edutech Pvt Ltd
+Calcutta,4.7,0,200000,700000,450000.0,Geogo Techsolutions
+Bengaluru,4.1,0,1000000,1000000,1000000.0,Fidelity Investments
+Hyderābād,4.2,0,600000,900000,750000.0,Hewlett Packard Enterprise
+Hyderābād,4.0,0,500000,700000,600000.0,Verisk
+Bengaluru,3.8,0,500000,600000,550000.0,ALSTOM
+Calcutta,3.9,0,200000,900000,550000.0,HSBC
+Hyderābād,4.0,0,300000,700000,500000.0,Verisk
+Bengaluru,3.6,0,1000000,1000000,1000000.0,Razorpay
+Noida,3.7,0,700000,1000000,850000.0,PwC
+Bengaluru,3.7,0,200000,300000,250000.0,Zscaler
+Chennai,4.0,0,500000,900000,700000.0,Ford Motor Company
+Bengaluru,4.1,0,400000,900000,650000.0,GE Aerospace
+Bengaluru,3.8,0,900000,1000000,950000.0,Revolut
+Noida,5.0,1,20000,30000,25000.0,Isad group
+Noida,3.5,0,300000,1000000,650000.0,Optum
+Remote,4.4,1,15000,20000,17500.0,UniConverge Technologies Pvt. Ltd.
+Bengaluru,3.7,0,600000,800000,700000.0,BOEING
+Noida,3.9,0,100000,300000,200000.0,IKM Investors Private Limited
+Remote,4.4,0,400000,800000,600000.0,D3V Technology Solutions
+Bengaluru,3.9,0,400000,800000,600000.0,Takeda Pharmaceutical
+Ahmedabad,,0,400000,700000,550000.0,Shayona Technology
+Gurgaon,4.1,0,200000,300000,250000.0,Amex
+Hyderābād,4.1,0,300000,900000,600000.0,JPMorganChase
+Chennai,3.9,0,400000,600000,500000.0,LatentView Analytics
+India,3.8,0,700000,1900000,1300000.0,Samyak Infotech Pvt. Ltd
+,4.1,0,500000,1000000,750000.0,Verizon
+Mumbai,3.9,0,9000000,700000,4850000.0,Digimind
+Bengaluru,4.4,0,100000,800000,450000.0,AceNet
+Bengaluru,3.0,0,100000,200000,150000.0,Enphase Energy
+Mumbai,3.7,0,200000,600000,400000.0,Bajaj Electricals
+Bengaluru,4.0,0,700000,1000000,850000.0,Brillio
+Bengaluru,3.9,0,500000,900000,700000.0,AGCO
+Bengaluru,4.1,0,400000,600000,500000.0,JPMorganChase
+Noida,3.6,0,400000,600000,500000.0,BIG OH TECH
+Bengaluru,3.8,0,300000,300000,300000.0,Visa
+Bengaluru,4.2,0,200000,1000000,600000.0,Microsoft
+Pune,3.9,0,800000,1000000,900000.0,Barclays
+Bengaluru,3.7,0,500000,800000,650000.0,Virtusa
+Bengaluru,4.0,0,200000,400000,300000.0,G2
+Mohali,3.6,1,8000,15000,11500.0,eNest Technologies Pvt Ltd
+India,3.3,0,1000000,2200000,1600000.0,NCRi Inc.
+Mohali,4.9,1,45000,85000,65000.0,Primotech
+Chennai,3.8,0,300000,800000,550000.0,ZF
+Chennai,,0,1500000,1800000,1650000.0,Warrior tech solutions
+Tirupati,3.4,0,200000,200000,200000.0,Young Minds Technology Solutions Pvt Ltd
+Gurgaon,5.0,0,800000,900000,850000.0,Amlgo Labs
+Bengaluru,4.1,0,300000,500000,400000.0,NatWest Group
+Gurgaon,3.8,0,400000,700000,550000.0,amdocs
+Thāne,3.9,0,300000,900000,600000.0,LANXESS
+,,1,80000,90000,85000.0,JSG Consulting
+Gurgaon,4.4,0,500000,600000,550000.0,Think Future Technologies
+Bengaluru,3.8,0,100000,600000,350000.0,ALSTOM
+Chennai,4.2,0,1500000,2000000,1750000.0,Ignitho Technologies
+Gurgaon,4.3,0,100000,1000000,550000.0,Google
+Bengaluru,4.1,0,400000,500000,450000.0,Amadeus IT Group SA
+Hyderābād,3.7,0,200000,700000,450000.0,Zelis
+Bengaluru,3.4,0,500000,900000,700000.0,First Advantage
+,4.3,0,1000000,1000000,1000000.0,NICE Systems
+Gurgaon,3.8,0,600000,800000,700000.0,Fidelity International
+Hyderābād,4.0,0,400000,500000,450000.0,Sanofi
+,3.9,0,400000,1000000,700000.0,AGCO
+Chennai,3.8,0,500000,700000,600000.0,Pfizer
+Bengaluru,3.4,0,400000,1000000,700000.0,Target
+Pune,3.7,0,300000,400000,350000.0,Citigroup
+Chennai,3.9,0,200000,700000,450000.0,Bank of America
+Bengaluru,4.1,0,300000,500000,400000.0,JPMorganChase
+Bengaluru,3.8,0,900000,900000,900000.0,Kyndryl
+Bengaluru,4.7,0,0,0,0.0,MASTER MIND CONSULTANCY
+Noida,4.1,0,400000,500000,450000.0,Techahead Software Pvt. Ltd.
+Navi Mumbai,4.4,0,400000,1000000,700000.0,PulsePoint
+Bengaluru,3.3,0,400000,700000,550000.0,Mico
+India,3.3,0,500000,500000,500000.0,National Credit Recovery Inc
+Remote,,1,5000,5000,5000.0,CCPL
+Noida,3.5,0,500000,900000,700000.0,Pentair
+Bengaluru,3.6,0,700000,900000,800000.0,ExxonMobil
+Bengaluru,4.5,0,100000,1000000,550000.0,PradeepIT Consulting Services
+Pune,,0,1100000,1100000,1100000.0,hirezy.ai
+Noida,4.2,0,200000,600000,400000.0,Tractable
+Remote,,1,11000,11000,11000.0,CCPL
+Bengaluru,4.0,0,400000,800000,600000.0,Caterpillar
+Bengaluru,4.1,0,400000,900000,650000.0,PhonePe
+,3.4,0,200000,600000,400000.0,Data Axle
+Pune,3.7,0,500000,800000,650000.0,LogicMonitor
+Hyderābād,3.8,0,500000,800000,650000.0,NTT DATA
+,3.8,0,300000,1000000,650000.0,Weekday
+Bengaluru,4.1,0,700000,1000000,850000.0,JPMorganChase
+Remote,4.5,0,400000,1500000,950000.0,Welkin Soft Tech Pvt. Ltd
+Gurgaon,3.8,0,200000,1000000,600000.0,McCormick
+Cochin,4.0,0,500000,600000,550000.0,GadgEon
+Hyderābād,4.0,0,600000,600000,600000.0,Technovert
+Gurgaon,4.1,0,800000,900000,850000.0,S&P Global
+Mumbai,4.1,0,200000,300000,250000.0,JPMorganChase
+India,4.7,0,800000,1200000,1000000.0,Innomatics Research Labs
+Bengaluru,3.9,0,300000,600000,450000.0,RadiusAI
+Bengaluru,3.8,0,400000,900000,650000.0,Meta
+Noida,3.6,0,300000,700000,500000.0,Escalent
+Noida,4.2,0,3600000,6000000,4800000.0,Adobe
+Bengaluru,3.9,0,300000,800000,550000.0,aioneers
+India,3.6,1,6000,8000,7000.0,Vidhema Technologies
+Chennai,3.7,0,300000,600000,450000.0,EY
+Pune,3.9,0,600000,900000,750000.0,Vodafone
+Hyderābād,3.9,0,500000,800000,650000.0,Naresh I Technologies
+Cochin,4.7,1,18000,18000,18000.0,KOMPETENZEN TECHNOLOGIES
+Thāne,2.4,1,20000,35000,27500.0,Nettech India
+Noida,4.2,0,1000000,1000000,1000000.0,Adobe
+Chennai,4.0,0,800000,800000,800000.0,Ford Motor Company
+Bengaluru,4.1,0,400000,900000,650000.0,Honeywell
+Pune,4.7,0,0,0,0.0,MASTER MIND CONSULTANCY
+Mumbai,4.7,0,500000,900000,700000.0,Phygital Insights
+Bengaluru,4.3,0,300000,1000000,650000.0,Google
+Noida,3.5,0,100000,600000,350000.0,Optum
+Hyderābād,4.1,0,800000,900000,850000.0,Apple
+Bengaluru,3.7,0,300000,400000,350000.0,EY
+Bengaluru,3.6,0,300000,500000,400000.0,ADCI - Karnataka
+Hyderābād,4.2,0,400000,700000,550000.0,Chryselys
+Bengaluru,3.5,0,200000,800000,500000.0,Optum
+,3.5,0,600000,700000,650000.0,Brainlabs
+Bengaluru,3.7,0,400000,700000,550000.0,EY
+Ahmedabad,4.8,0,400000,600000,500000.0,Glasier Inc
+Hosūr,4.0,0,300000,300000,300000.0,GBrit Software Solutions Pvt Ltd
+Pune,3.7,0,300000,600000,450000.0,EY
+Bengaluru,4.3,0,200000,1000000,600000.0,Google
+Pune,3.7,0,600000,1000000,800000.0,EY
+Hyderābād,3.7,0,600000,1000000,800000.0,EY
+Bengaluru,3.7,0,500000,600000,550000.0,Cloudifyops
+Hyderābād,4.0,0,500000,800000,650000.0,Phenom People
+,4.0,0,300000,800000,550000.0,Cranes Varsity
+Mumbai,5.0,0,3000000,5500000,4250000.0,Shamrock Value Private Limited
+Mohali,,1,20000,20000,20000.0,Research Infinite Solutions LLP
+Chennai,3.8,0,200000,200000,200000.0,Comcast
+Bengaluru,3.9,0,500000,700000,600000.0,Harman International
+Chennai,3.9,0,400000,600000,500000.0,Qualcomm
+Bengaluru,3.3,0,200000,200000,200000.0,iSOCRATES
+,3.8,0,200000,500000,350000.0,Uber
+Bengaluru,3.8,0,400000,500000,450000.0,Goldman Sachs
+Chennai,3.3,0,300000,800000,550000.0,ACV Auctions
+India,,1,20000,20000,20000.0,Mindforge Infotech
+,4.0,0,500000,700000,600000.0,Reltio
+Bengaluru,4.1,0,400000,1000000,700000.0,Apple
+Hyderābād,4.1,0,500000,800000,650000.0,Apple
+,3.7,0,400000,700000,550000.0,EY
+Bengaluru,3.6,0,400000,1000000,700000.0,ADCI - Karnataka
+Pune,3.9,0,500000,500000,500000.0,XoriantːIN
+Bengaluru,3.8,0,400000,1000000,700000.0,Tesco
+Gurgaon,3.7,0,600000,1000000,800000.0,Citigroup
+Bengaluru,4.2,0,300000,600000,450000.0,Fractal Analytics
+Bengaluru,4.2,0,1000000,1000000,1000000.0,mPokket
+Bengaluru,3.7,0,100000,300000,200000.0,Citigroup
+Bengaluru,3.8,0,700000,900000,800000.0,Oracle
+Pune,3.9,0,300000,700000,500000.0,Tekdi Technologies
+Bengaluru,3.8,0,600000,900000,750000.0,Standard Chartered
+Hyderābād,4.1,0,500000,1000000,750000.0,JPMorganChase
+Pune,3.7,0,400000,800000,600000.0,Citigroup
+Hyderābād,3.8,0,1000000,1000000,1000000.0,Micron Technology
+Bengaluru,3.8,0,300000,300000,300000.0,Weekday
+Bengaluru,3.7,0,100000,200000,150000.0,Klüber Lubrication
+Hyderābād,3.6,0,600000,800000,700000.0,Warner Bros. Discovery
+Cochin,3.7,0,300000,600000,450000.0,EY
+Bengaluru,3.8,0,900000,1000000,950000.0,Expedia Group
+Bengaluru,3.4,0,200000,600000,400000.0,Zeta Global
+Thiruvananthapuram,4.1,0,300000,800000,550000.0,Techvantage Systems
+Chennai,3.9,0,200000,200000,200000.0,Qualcomm
+Bengaluru,3.9,0,600000,900000,750000.0,AGCO
+Bengaluru,3.9,0,400000,900000,650000.0,eBay
+Bengaluru,3.9,0,400000,900000,650000.0,Quicken
+Hyderābād,,0,900000,900000,900000.0,Novartis
+Hyderābād,3.4,0,700000,800000,750000.0,New Relic
+Pune,3.9,0,600000,600000,600000.0,XoriantːIN
+Bengaluru,4.0,0,600000,1100000,850000.0,GSK
+Bengaluru,3.8,0,300000,500000,400000.0,Harness.io
+Bengaluru,3.9,0,600000,800000,700000.0,UST Global
+Hyderābād,,0,600000,800000,700000.0,Novartis
+Bengaluru,4.1,0,300000,1000000,650000.0,JPMorganChase
+Nāgpur,3.2,0,100000,800000,450000.0,Corpay
+Gurgaon,2.6,0,500000,900000,700000.0,AiDash
+Chennai,3.7,0,200000,1000000,600000.0,"Viasat, Inc."
+Bengaluru,4.0,0,200000,500000,350000.0,Ericsson
+Hyderābād,3.8,0,100000,200000,150000.0,Uber
+Hyderābād,4.0,0,300000,700000,500000.0,Amgen
+Hyderābād,4.1,0,600000,600000,600000.0,Thomson Reuters
+Pune,3.7,0,100000,300000,200000.0,Citigroup
+Bengaluru,4.2,0,700000,1000000,850000.0,NetApp
+Bengaluru,3.6,0,200000,800000,500000.0,Sixt
+Mumbai,4.1,0,300000,500000,400000.0,JPMorganChase
+Thiruvananthapuram,3.0,1,15000,25000,20000.0,Marikar (Motors) Ltd
+Hyderābād,4.0,0,500000,1000000,750000.0,Amgen
+Bengaluru,3.1,0,600000,900000,750000.0,Avathon
+Chennai,3.6,0,500000,900000,700000.0,Cognizant
+Bengaluru,4.3,0,1000000,1000000,1000000.0,Texas Instruments
+Hyderābād,3.6,0,500000,1000000,750000.0,Amazon Dev Center India - Hyderabad
+India,4.8,0,0,0,0.0,Certybox
+Gurgaon,1.0,0,500000,800000,650000.0,SAP Group
+Mumbai,3.8,0,300000,800000,550000.0,FedEx AMEA
+Gurgaon,3.1,0,200000,800000,500000.0,Circle K
+Bengaluru,4.0,0,400000,1000000,700000.0,SUSE
+Chennai,4.1,0,500000,800000,650000.0,Athenahealth
