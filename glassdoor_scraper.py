@@ -13,7 +13,8 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
     driver = webdriver.Chrome(service=service, options=options)
 
     # url = f"https://www.glassdoor.co.in/Job/data-scientist-jobs-SRCH_IN115_KO0,14.htm?sortBy=date_desc"
-    url = "https://www.glassdoor.co.in/Job/india-ai-developer-jobs-SRCH_IL.0,5_IN115_KO6,18.htm"
+    # url = "https://www.glassdoor.co.in/Job/india-ai-developer-jobs-SRCH_IL.0,5_IN115_KO6,18.htm"
+    url = "https://www.glassdoor.co.in/Job/india-software-engineer-jobs-SRCH_IL.0,5_IN115_KO6,23.htm"
     driver.get(url)
 
     print("🌐 Website loaded. Expanding job list...")
@@ -122,10 +123,10 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
 
 if __name__ == "__main__":
     keyword = "Data Scientist"
-    num_jobs = 500
+    num_jobs = 700
     verbose = True
     slp_time = 1
 
     df = get_jobs(keyword, num_jobs, verbose, slp_time)
-    df.to_csv("glassdoor_jobs_final.csv", index=False)
-    print("\n📁 Saved scraped data to 'glassdoor_jobs_unique.csv'")
+    df.to_csv("glassdoor_jobs_soft_engg.csv", index=False)
+    print("\n📁 Saved scraped data to 'glassdoor_jobs_soft_engg.csv'")
