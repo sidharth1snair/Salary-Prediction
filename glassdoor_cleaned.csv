@@ -1,339 +1,526 @@
 Job Title,Location,Rating,monthly,min_salary_rupees,max_salary_rupees,avg_salary_rupees,company_name_cleaned
-Data Scientist,Bhubaneshwar,4.3,0,1000000,2300000,1650000.0,Nirmalya Labs
-Data Analytics Lead Analyst - C13 - BANGALORE,Bengaluru,3.7,0,600000,1000000,800000.0,Citi
-Business Analyst – Digital Analytics ( Adobe ),Bengaluru,3.7,0,500000,1000000,750000.0,Citi
-"Sr. Consultant, Data Science and Analytics",Bengaluru,4.0,0,1000000,1000000,1000000.0,TransUnion
-Lead Data Analytics Analyst (Vice President),Bengaluru,3.7,0,600000,1000000,800000.0,Citi
-AI Operations and Optimization Manager,Pune,3.7,0,500000,600000,550000.0,Ecolab Inc.
-"Data Scientist II, Last Mile Science",Bengaluru,3.6,0,500000,1000000,750000.0,ADCI - Karnataka
-Data Science Specialist - OptimusAI (Mining/Metal/Chemicals),Bengaluru,4.1,0,400000,1000000,700000.0,McKinsey & Company
-Senior Data Scientist,Gurgaon,4.0,0,700000,900000,800000.0,Gartner
-Data Analyst,Surat,3.8,1,35000,35000,35000.0,Stratefix Consulting
-Data Scientist,Hyderābād,3.9,0,500000,1000000,750000.0,"World Wide Technology Holding, LLC"
-Associate Machine Learning,Gurgaon,3.2,0,400000,500000,450000.0,Sprinklr
-Data Science Trainer,Hyderābād,4.4,1,20000,30000,25000.0,Fireblaze AI School
-Data Science Engineer-ML/NLP,Bengaluru,3.7,0,500000,800000,650000.0,Relyance AI
-AI Engineer,Noida,3.5,0,300000,800000,550000.0,Product and Technology
-"Manager, Data Science",Bengaluru,2.9,0,300000,700000,500000.0,Ansira
-Senior Manager (Data Science),Bengaluru,3.5,0,800000,900000,850000.0,Factspan
-Senior Data Science Lead – R01551339,Chennai,4.0,0,800000,1000000,900000.0,Brillio
-"Analyst, DACI Analytics",Bengaluru,4.2,0,700000,800000,750000.0,Lowe's
-"Senior Analyst, Marketing Analytics",Bengaluru,3.6,0,600000,1000000,800000.0,Bluevine - India
-"Senior Analyst, BI Sales Analytics",Hyderābād,4.1,0,500000,700000,600000.0,S&P Global
-Solution Architect Director (Data Science & AI/ML),Bengaluru,3.5,0,300000,400000,350000.0,Factspan
-IN-Senior Associate_Integration Engineer _Data and Analytics_Advisory_Bangalore,Bengaluru,3.7,0,600000,800000,700000.0,PwC
-AI Architect/Lead,Bengaluru,4.0,0,600000,800000,700000.0,Lilly
-AI ML Engineer,Ahmedabad,3.7,0,300000,800000,550000.0,"Arrow Electronics, Inc."
-AI - Senior Staff Engineer,Hyderābād,4.0,0,400000,400000,400000.0,Synopsys
-Principal Analyst (Machine Learning Engineer),Bengaluru,3.5,0,300000,400000,350000.0,Factspan
-Senior ML engineer - SAP Business AI - SAP Knowledge Graph,Bengaluru,4.2,0,200000,400000,300000.0,SAP
-"Data Scientist Product, Google One and Photos",Bengaluru,4.3,0,100000,900000,500000.0,Google
-Data Analyst,Pune,3.6,0,800000,1100000,950000.0,Equifax
-Senior Data Scientist,Pune,,0,200000,800000,500000.0,UNITY Systems
-Senior Applied Scientist II,Bengaluru,4.1,0,300000,900000,600000.0,Thomson Reuters
-Technical Architect - GCP AI (Gemini),Bengaluru,3.5,0,300000,300000,300000.0,Atos
-Principal Consultant -AI ML Engineer,Bengaluru,3.8,0,900000,1000000,950000.0,Genpact
-Data Scientist,Vadodara,3.8,0,500000,1100000,800000.0,NielsenIQ
-Data Scientist,India,2.5,0,1600000,2000000,1800000.0,Scymes Services PVT. LTD.
-Data Scientist II,Chennai,4.2,0,200000,500000,350000.0,Toyota Connected India
-Data Scientist,Pune,3.6,0,400000,900000,650000.0,Wipro Limited
-Data Scientist (2–4 Yr),Mumbai,4.1,0,300000,1000000,650000.0,XS CAD India Pvt. Ltd
-Data Scientist,Bengaluru,3.8,0,200000,200000,200000.0,Commonwealth Bank
-Data Analyst,Pune,3.7,0,800000,900000,850000.0,Johnson Controls
-Data Scientist,Pune,3.9,0,500000,800000,650000.0,Cybage
-Lead Data Scientist - Ad Tech,Bengaluru,4.2,0,400000,400000,400000.0,Target
-"Data Scientist, Senior",Bengaluru,3.8,0,300000,1000000,650000.0,o9 Solutions
-Data Scientist Senior,Bengaluru,3.8,0,200000,200000,200000.0,Commonwealth Bank
-Senior Applied Data Scientist,Bengaluru,3.7,0,700000,1000000,850000.0,LSEG (London Stock Exchange Group)
-Data Scientist 4,Chennai,3.8,0,700000,800000,750000.0,Comcast
-"Senior Data Scientist, Operations (Gen AI)",Mumbai,3.8,0,1000000,1100000,1050000.0,Argus Media
-Junior Program Associate– Climate-Energy-Economic Modelling,Mumbai,3.7,0,700000,800000,750000.0,WRI India
-Senior Data Scientist,Mumbai,3.8,0,1000000,1200000,1100000.0,Abbott Laboratories
-"Lead Data Scientist, Operations (Gen AI)",Mumbai,3.8,0,1000000,1100000,1050000.0,Argus Media
-Generative AI Platform,Bengaluru,3.7,0,300000,400000,350000.0,CGI
-"Manager, Data Science",Bengaluru,3.8,0,1000000,1000000,1000000.0,Standard Chartered
-Senior Data Scientist - Agentic AI & MLOps,,3.6,0,400000,900000,650000.0,Securonix
-Lead AI/ML Engineer,Bengaluru,3.6,0,2400000,200000,1300000.0,Okta
-Associate Architect - Machine Learning,Bengaluru,4.2,0,600000,900000,750000.0,Quantiphi
-Senior ML Engineer,Chennai,3.8,0,700000,900000,800000.0,Standard Chartered
-Sr ML Engineer,Bengaluru,3.8,0,600000,900000,750000.0,Visa
-"Director, Buyer Experience AI R&D",Bengaluru,3.9,0,500000,1000000,750000.0,eBay
-Senior AI/ML Engineer,Bengaluru,3.6,0,500000,900000,700000.0,nVent
-Vice President – Fraud Analytics and Operations,Chennai,4.1,0,700000,900000,800000.0,Fidelity Investments
-Member of Technical Staff - 3 [AI/ML],Bengaluru,3.9,0,500000,600000,550000.0,Nutanix
-Data Scientist,Delhi,3.6,0,600000,1200000,900000.0,Applore Technologies Pvt. Ltd
-Data Scientist,Noida,3.6,0,800000,1000000,900000.0,Clarivate
-Data Scientist,,3.6,0,1000000,1000000,1000000.0,Qualys
-Data Scientist,Mumbai,4.5,0,500000,900000,700000.0,INCHES Healthcare
-"Data Scientist, Research, App Safety Engineering",Bengaluru,4.3,0,100000,900000,500000.0,Google
-Senior Applied & Data scientist,Hyderābād,4.2,0,300000,1000000,650000.0,Microsoft
-Data Scientist,Bengaluru,3.7,0,400000,600000,500000.0,MOLECULAR CONNECTIONS
-"Data Scientist, Amazon Payments (Level 5), Amazon",Bengaluru,3.6,0,500000,1000000,750000.0,ADCI - Karnataka
-"Applied Scientist I, Geospatial Science, Last Mile",Hyderābād,3.6,0,300000,1000000,650000.0,ADCI HYD 13 SEZ
-Data Scientist,Hyderābād,4.1,0,600000,800000,700000.0,Thomson Reuters
-Data Scientist - AWS Professional Services,Bengaluru,3.7,0,700000,1000000,850000.0,AWS ProServe IN - Karnataka
-Senior Data Scientist,Bengaluru,4.1,0,700000,1000000,850000.0,Fidelity Investments
-Trainer/Faculty - Artificial Intelligence & Data Science,Cochin,5.0,1,15000,20000,17500.0,TECACS IT GROUP PVT LTD
-"Team Lead, Data Analytics",Noida,4.3,0,700000,800000,750000.0,CoreLogic
-AI Data Engineer,Hyderābād,3.8,0,500000,900000,700000.0,NTT DATA
-Python Machine Learning,Mohali,3.9,1,30000,80000,55000.0,iTechnolabs
-Data Science Analyst (Standard),Gurgaon,3.7,0,400000,600000,500000.0,Infogain
-Lead Data Scientist,Coimbatore,4.0,0,400000,800000,600000.0,"EPAM Systems, Inc."
-Senior Data Scientist - AWS Professional Services,Mumbai,3.7,0,600000,900000,750000.0,AWS ProServe IN - Maharashtra
-AI/ML Engineer (Python Developer),Bengaluru,4.2,0,500000,600000,550000.0,Cybernetyx
-Machine Learning Engineer,Gurgaon,4.1,0,600000,600000,600000.0,Paxcom India
-Senior Data Scientist,Bengaluru,4.1,0,500000,800000,650000.0,Thomson Reuters
-Machine Learning Engineer,Bengaluru,4.1,0,500000,600000,550000.0,Autodesk
-Senior Digital Analyst (MCI),Gurgaon,4.4,0,400000,900000,650000.0,TRU IT
-Data Science Analyst (Senior),Mumbai,3.7,0,400000,600000,500000.0,Infogain
-Manager - Data Science,Gurgaon,4.1,0,400000,600000,500000.0,Amex
-Talent Services - Manager - Learning Operations (Insights),Hyderābād,3.9,0,500000,900000,700000.0,Deloitte
-Specialist - AI Development,Bengaluru,3.6,0,400000,900000,650000.0,Carrier
-Senior Engineer - Machine Learning,Gurgaon,3.8,0,900000,1000000,950000.0,United Airlines
-Director/Sr.Director of AI Engineering,Bengaluru,3.6,0,300000,700000,500000.0,Credit Saison
-"Manager, AI Enablement",Bengaluru,4.1,0,200000,700000,450000.0,Thomson Reuters
-Modelling and Analytics Senior Manager,Bengaluru,3.8,0,200000,200000,200000.0,Commonwealth Bank
-AI Research Engineer (Model Evaluation),Bengaluru,3.1,0,500000,900000,700000.0,Tether Operations Limited
-Senior Machine Learning Engineer,Bengaluru,4.1,0,500000,600000,550000.0,Autodesk
-"Principal Engineer - Development (Machine Learning, Python)",Pune,3.7,0,200000,900000,550000.0,FIS Global
-AI/ML Engineer – Team Lead,Ahmedabad,3.6,0,400000,400000,400000.0,NexusLink Services
-Lead Consultant - ML Engineer,Hyderābād,3.8,0,700000,800000,750000.0,Genpact
-Machine Learning Engineer,,4.2,1,15000,25000,20000.0,CompIndia Infotech Pvt Ltd
-Mid Data Scientist,Bengaluru,4.2,0,600000,900000,750000.0,Reflections Info Systems
-Data Analyst Trainer,Madurai,4.0,1,12000,18000,15000.0,Elysium Group of Companies
-Lead Decision Scientist,Bengaluru,3.8,0,400000,1000000,700000.0,Tesco India
-Lab45 - AI-ML Engineer,Bengaluru,3.6,0,600000,700000,650000.0,Wipro Limited
-"Machine Learning Manager, Apple Intelligence",Bengaluru,4.1,0,600000,1000000,800000.0,Apple
-AI/ML Engineer - 5 to 10 yrs,Chennai,3.6,0,400000,600000,500000.0,Wipro Limited
-Digital Practice Lead_Data & AI,Mumbai,3.9,0,300000,1000000,650000.0,Savic
-Data Science Trainer,India,4.3,0,300000,800000,550000.0,Itvedant Education Pvt Ltd
-Asst. Manager - Fraud Analytics,Noida,3.9,0,800000,900000,850000.0,Barclays
-AI Product Owner,Pune,3.7,0,800000,1000000,900000.0,Johnson Controls
-"Senior Manager – Data science, data modelling and analytics",Bengaluru,3.6,0,500000,600000,550000.0,Dentsu
-Senior Analyst - Data Scientist,Noida,3.9,0,800000,1000000,900000.0,Barclays
-Data Scientist,India,3.7,1,20000,30000,25000.0,i-Sourcing Technologies Private Limited
-Data Scientist & LLM Operations Specialist- Contract to hire,,4.2,0,500000,1600000,1050000.0,Rapsys Technologies
-Data Scientist Senior Associate,Bengaluru,3.8,0,200000,200000,200000.0,Commonwealth Bank
-LLM - Machine Learning TensorFlow + JAX,Remote,,0,1000000,1500000,1250000.0,GiantMind Solutions
-Senior Data Scientist,Bengaluru,4.0,0,400000,900000,650000.0,Ericsson
-AI/ML Associate Engineer,Hyderābād,4.4,0,300000,800000,550000.0,Acads360 India Private Limited
-Lead Data Scientist,Pune,4.2,0,200000,200000,200000.0,Mastercard
-LLM - Machine Learning TensorFlow + JAX,Remote,,0,1500000,2500000,2000000.0,Nithminds Private limited
-Data Science Tutor,Thiruvananthapuram,4.2,1,8000,15000,11500.0,Avodha Edutech Pvt Ltd
-AI & ML Engineer,Calcutta,4.7,0,200000,700000,450000.0,Geogo Techsolutions
-Lead - Data Analytics and Insights,Bengaluru,4.1,0,1000000,1000000,1000000.0,Fidelity Investments
-AI/ML Engineer,Hyderābād,4.2,0,600000,900000,750000.0,Hewlett Packard Enterprise
-Atmospheric Scientist/Statistician I,Hyderābād,4.0,0,500000,700000,600000.0,Verisk
-EDU Manager-RAMS-Data Analytics,Bengaluru,3.8,0,500000,600000,550000.0,ALSTOM
-"VP, RC AI and Analytics",Calcutta,3.9,0,200000,900000,550000.0,HSBC
-Storm Surge Specialist using Machine Learning,Hyderābād,4.0,0,300000,700000,500000.0,Verisk
-Staff Analytics SpecialistNew,Bengaluru,3.6,0,1000000,1000000,1000000.0,Razorpay
-IN-Manager_Azure Data Engineer_Data & Analytics_Advisory_Noida,Noida,3.7,0,700000,1000000,850000.0,PwC
-"Sr. Analyst, Marketing Strategy & Analytics",Bengaluru,3.7,0,200000,300000,250000.0,Zscaler
-Data Scientist,Chennai,4.0,0,500000,900000,700000.0,Ford Motor Company
-Data Scientist,Bengaluru,4.1,0,400000,900000,650000.0,GE Aerospace
-Data Scientist (Credit),Bengaluru,3.8,0,900000,1000000,950000.0,Revolut
-Data Science Researcher/SME,Noida,5.0,1,20000,30000,25000.0,Isad group
-"Senior Data Scientist - AIML, Cloud, PowerBI",Noida,3.5,0,300000,1000000,650000.0,Optum
-Data Science Mentor,Remote,4.4,1,15000,20000,17500.0,UniConverge Technologies Pvt. Ltd.
-Experienced Data Scientist,Bengaluru,3.7,0,600000,800000,700000.0,BOEING
-Senior Data Scientist,Coimbatore,4.0,0,400000,800000,600000.0,"EPAM Systems, Inc."
-MIS cum Analyst,Noida,3.9,0,100000,300000,200000.0,IKM Investors Private Limited
-Experienced AI/ML Engineer,Remote,4.4,0,400000,800000,600000.0,D3V Technology Solutions
-Senior Data Scientist,Bengaluru,3.9,0,400000,800000,600000.0,Takeda Pharmaceutical
-AI/ML Developer,Ahmedabad,,0,400000,700000,550000.0,Shayona Technology
-Senior Analyst-Data Analytics,Gurgaon,4.1,0,200000,300000,250000.0,Amex
-"Quant Analytics Associate - SQL, SAS/Alteryx/Tableau",Hyderābād,4.1,0,300000,900000,600000.0,JPMorganChase
-Assistant Manager - Data Science,Chennai,3.9,0,400000,600000,500000.0,LatentView Analytics
-Senior ML Engineer,India,3.8,0,700000,1900000,1300000.0,Samyak Infotech Pvt. Ltd
-Senior Machine Learning Engineer - R&D,Bengaluru,4.2,0,600000,900000,750000.0,Quantiphi
-Senior Engineer Consultant-Data Science,,4.1,0,500000,1000000,750000.0,Verizon
-Senior Machine Learning Operations Engineer,Mumbai,3.9,0,9000000,700000,4850000.0,Digimind
-ML Engineer,Bengaluru,4.4,0,100000,800000,450000.0,AceNet
-Senior Software Engineer: Data Science,Bengaluru,3.0,0,100000,200000,150000.0,Enphase Energy
-Lead - Analytics,Mumbai,3.7,0,200000,600000,400000.0,Bajaj Electricals
-Senior AI/ML Engineer – R01551251,Bengaluru,4.0,0,700000,1000000,850000.0,Brillio
-Lead Analytics SpecialistNew,Bengaluru,3.6,0,1000000,1000000,1000000.0,Razorpay
-"Sr. Manager, Data & AI systems architecture",Bengaluru,3.9,0,500000,900000,700000.0,AGCO
-Analytics Solutions - Vice President,Bengaluru,4.1,0,400000,600000,500000.0,JPMorganChase
-Data Scientist,Noida,3.6,0,400000,600000,500000.0,BIG OH TECH
-Data Scientist,Bengaluru,3.8,0,300000,300000,300000.0,Visa
-Data Scientist II,Bengaluru,4.2,0,200000,1000000,600000.0,Microsoft
-Data Scientist,Pune,3.9,0,800000,1000000,900000.0,Barclays
-Data Scientist,Bengaluru,3.7,0,500000,800000,650000.0,Virtusa
-Data Scientist - I,Bengaluru,4.0,0,200000,400000,300000.0,G2
-Data Scientist,Mohali,3.6,1,8000,15000,11500.0,eNest Technologies Pvt Ltd
-Data Scientist,India,3.3,0,1000000,2200000,1600000.0,NCRi Inc.
-Data Scientist,Mohali,4.9,1,45000,85000,65000.0,Primotech
-Senior Data Scientist - AI/ML,Chennai,3.8,0,300000,800000,550000.0,ZF
-Data Scientist/AI Engineer,Chennai,,0,1500000,1800000,1650000.0,Warrior tech solutions
-Data Scientist,Tirupati,3.4,0,200000,200000,200000.0,Young Minds Technology Solutions Pvt Ltd
-Data Scientist,Gurgaon,5.0,0,800000,900000,850000.0,Amlgo Labs
-"Data Scientist, VP",Bengaluru,4.1,0,300000,500000,400000.0,NatWest Group
-Data Scientist (135),Gurgaon,3.8,0,400000,700000,550000.0,amdocs
-Data Science Trainee,Thāne,3.9,0,300000,900000,600000.0,LANXESS
-Data Scientist – Smart Metering,,,1,80000,90000,85000.0,JSG Consulting
-Data Scientist,Gurgaon,4.4,0,500000,600000,550000.0,Think Future Technologies
-Data Scientist,Bengaluru,3.8,0,100000,600000,350000.0,ALSTOM
-Lead Data Scientist,Chennai,4.2,0,1500000,2000000,1750000.0,Ignitho Technologies
-"Data Scientist, gTech Ads Solutions",Gurgaon,4.3,0,100000,1000000,550000.0,Google
-Data Scientist 3,Bengaluru,4.1,0,400000,500000,450000.0,Amadeus IT Group SA
-Marketing Analytics Specialist,Hyderābād,3.7,0,200000,700000,450000.0,Zelis
-Senior Data Scientist,Bengaluru,3.4,0,500000,900000,700000.0,First Advantage
-Specialist Data Scientist,,4.3,0,1000000,1000000,1000000.0,NICE Systems
-Technical Specialist - Data Scientist,Gurgaon,3.8,0,600000,800000,700000.0,Fidelity International
-AI/ML Data Scientist,Hyderābād,4.0,0,400000,500000,450000.0,Sanofi
-Data Scientist I,,3.9,0,400000,1000000,700000.0,AGCO
-Senior Statistical Data Scientist,Chennai,3.8,0,500000,700000,600000.0,Pfizer
-Sr Data Scientist - ML/OR,Bengaluru,3.4,0,400000,1000000,700000.0,Target
-C13-VP-Data Scientist-Fraud Model Development -PUNE,Pune,3.7,0,300000,400000,350000.0,Citigroup
-Data Scientist II - GBS IND,Chennai,3.9,0,200000,700000,450000.0,Bank of America
-Senior Data Scientist,Noida,3.5,0,300000,1000000,650000.0,Optum
-Data Scientist Associate Sr,Bengaluru,4.1,0,300000,500000,400000.0,JPMorganChase
-Data Scientist,Bengaluru,3.8,0,900000,900000,900000.0,Kyndryl
-Data Scientist - C13 - VP - PUNE,Pune,3.7,0,300000,400000,350000.0,Citigroup
-Lead Data Scientist-Stores,Bengaluru,4.2,0,400000,400000,400000.0,Target
-Senior Data Scientist,Bengaluru,4.7,0,0,0,0.0,MASTER MIND CONSULTANCY
-AI/ML Engineer,Noida,4.1,0,400000,500000,450000.0,Techahead Software Pvt. Ltd.
-"(Remote, India) Sr. Data Scientist, Analytics R&D",Navi Mumbai,4.4,0,400000,1000000,700000.0,PulsePoint
-Senior Data Scientist,Bengaluru,3.3,0,400000,700000,550000.0,Mico
-Machine Learning Engineer,India,3.3,0,500000,500000,500000.0,National Credit Recovery Inc
-AI/ML - Jr & Sr Positions,Remote,,1,5000,5000,5000.0,CCPL
-"Associate Specialist, Data Science",Noida,3.5,0,500000,900000,700000.0,Pentair
-Commercial Data Scientist,Bengaluru,3.6,0,700000,900000,800000.0,ExxonMobil
-Data Scientist,Bengaluru,4.5,0,100000,1000000,550000.0,PradeepIT Consulting Services
-Senior Data Scientist | Machine Learning Engineer (MLE),Pune,,0,1100000,1100000,1100000.0,hirezy.ai
-Senior Data Scientist,Noida,4.2,0,200000,600000,400000.0,Tractable
-Gen AI Agentic AI - Jr & Sr Positions,Remote,,1,11000,11000,11000.0,CCPL
-Senior Data Scientist,Bengaluru,4.0,0,400000,800000,600000.0,Caterpillar
-Decision Scientist,Bengaluru,4.1,0,400000,900000,650000.0,PhonePe
-Senior Data Scientist,,3.4,0,200000,600000,400000.0,Data Axle
-Sr. Data Scientist,Pune,3.7,0,500000,800000,650000.0,LogicMonitor
-Data Scientist,Hyderābād,3.8,0,500000,800000,650000.0,NTT DATA
-AI Developer,,3.8,0,300000,1000000,650000.0,Weekday
-"Associate - Data, Insights & Analytics",Bengaluru,4.1,0,700000,1000000,850000.0,JPMorganChase
-AI ML Engineer,Remote,4.5,0,400000,1500000,950000.0,Welkin Soft Tech Pvt. Ltd
-SR DATA SCIENTIST I GLOBAL,Gurgaon,3.8,0,200000,1000000,600000.0,McCormick
-APPLIED AI SCIENTIST,Cochin,4.0,0,500000,600000,550000.0,GadgEon
-Lead Data Scientist,Hyderābād,4.0,0,600000,600000,600000.0,Technovert
-Lead Data Scientist,Gurgaon,4.1,0,800000,900000,850000.0,S&P Global
-CCB_Data and Analytics - AI ML Associate,Mumbai,4.1,0,200000,300000,250000.0,JPMorganChase
-Data Science Trainer,India,4.7,0,800000,1200000,1000000.0,Innomatics Research Labs
-Principle Applied Scientist - Computer VIsion,Bengaluru,3.9,0,300000,600000,450000.0,RadiusAI
-"Data Engineer, Product Analytics",Bengaluru,3.8,0,400000,900000,650000.0,Meta
-Lead Data Scientist-Stores,Bengaluru,3.4,0,400000,1000000,700000.0,Target
-Machine Learning Engineer - India,Noida,3.6,0,300000,700000,500000.0,Escalent
-Machine Learning Engineer 2,Noida,4.2,0,3600000,6000000,4800000.0,Adobe
-Senior Data Scientist - Supply Chain Management (m/f/d),Bengaluru,3.9,0,300000,800000,550000.0,aioneers
-Machine Learning Engineer,India,3.6,1,6000,8000,7000.0,Vidhema Technologies
-Digital-Staff-Machine Learning Developer,Chennai,3.7,0,300000,600000,450000.0,EY
-Manager_Lead_Data Scientist_Pune,Pune,3.9,0,600000,900000,750000.0,Vodafone
-Faculty - Data Science,Hyderābād,3.9,0,500000,800000,650000.0,Naresh I Technologies
-Data Science Trainer,Cochin,4.7,1,18000,18000,18000.0,KOMPETENZEN TECHNOLOGIES
-Data Science Trainer,Thāne,2.4,1,20000,35000,27500.0,Nettech India
-Data Science Engineer 3,Noida,4.2,0,1000000,1000000,1000000.0,Adobe
-AI/ML Expert,Chennai,4.0,0,800000,800000,800000.0,Ford Motor Company
-Principal Data Scientist,Bengaluru,4.1,0,400000,900000,650000.0,Honeywell
-Data Scientist Manager,Pune,4.7,0,0,0,0.0,MASTER MIND CONSULTANCY
-Senior Data Scientist,Mumbai,4.7,0,500000,900000,700000.0,Phygital Insights
-"Cloud Engineer, AI",Bengaluru,4.3,0,300000,1000000,650000.0,Google
-AI or ML Engineer,Noida,3.5,0,100000,600000,350000.0,Optum
-Machine Learning Engineer- LLM,Hyderābād,4.1,0,800000,900000,850000.0,Apple
-Data and Analytics -Pricing and Commercial - Senior,Bengaluru,3.7,0,300000,400000,350000.0,EY
-"Applied Scientist II, India Machine Learning",Bengaluru,3.6,0,300000,500000,400000.0,ADCI - Karnataka
-Associate - Analytics Solutions,Bengaluru,4.1,0,700000,1000000,850000.0,JPMorganChase
-Consultant - Insights & Analytics (Forecasting),Hyderābād,4.2,0,400000,700000,550000.0,Chryselys
-AI or ML Engineer,Bengaluru,3.5,0,200000,800000,500000.0,Optum
-AI Lead,Bengaluru,3.7,0,300000,400000,350000.0,CGI
-"Director, Data Science",,3.5,0,600000,700000,650000.0,Brainlabs
-SaT-DNA-Data & AI Strategy-Associate Director,Bengaluru,3.7,0,400000,700000,550000.0,EY
-AI/ML Engineer,Ahmedabad,4.8,0,400000,600000,500000.0,Glasier Inc
-COMPUTER VISION & EDGE AI ENGINEER,Cochin,4.0,0,500000,600000,550000.0,GadgEon
-AI/ML Engineer,Hosūr,4.0,0,300000,300000,300000.0,GBrit Software Solutions Pvt Ltd
-EY - GDS Consulting - AI & DATA -Statistical Modeler - Senior,Pune,3.7,0,300000,600000,450000.0,EY
-"Software Engineer, Machine Learning Compilers",Bengaluru,4.3,0,200000,1000000,600000.0,Google
-AI/ML Engineer,Noida,3.5,0,100000,600000,350000.0,Optum
-Data Science Analyst (Senior),Gurgaon,3.7,0,400000,600000,500000.0,Infogain
-Risk Data Engineer Senior-AWS-Data Scientist,Pune,3.7,0,600000,1000000,800000.0,EY
-EY - GDS Consulting - AI and DATA - AWS Data Engineer - Senior,Hyderābād,3.7,0,600000,1000000,800000.0,EY
-AI/ML Engineer,Bengaluru,3.7,0,500000,600000,550000.0,Cloudifyops
-Product Development Engineer I - Machine Learning,Hyderābād,4.0,0,500000,800000,650000.0,Phenom People
-Technical Trainer (Faculty)- Data science,,4.0,0,300000,800000,550000.0,Cranes Varsity
-Marketing Analytics Manager,Mumbai,5.0,0,3000000,5500000,4250000.0,Shamrock Value Private Limited
-AI/ML Engineer,Mohali,,1,20000,20000,20000.0,Research Infinite Solutions LLP
-"Engineer 4, Machine Learning",Chennai,3.8,0,200000,200000,200000.0,Comcast
-Graph Engineer- Data Science,Bengaluru,3.9,0,500000,700000,600000.0,Harman International
-Staff Engineer- Machine Learning,Chennai,3.9,0,400000,600000,500000.0,Qualcomm
-Manager Data Science,Bengaluru,3.3,0,200000,200000,200000.0,iSOCRATES
-Product Manager II - AI Knowledge,,3.8,0,200000,500000,350000.0,Uber
-SaT-DnA-Data Science Gen AI Assistant Manager,Bengaluru,3.7,0,400000,700000,550000.0,EY
-Internal Audit - Embedded Data Analytics - Associate - Bengaluru,Bengaluru,3.8,0,400000,500000,450000.0,Goldman Sachs
-"Machine Learning Engineer III, MLOps",Chennai,3.3,0,300000,800000,550000.0,ACV Auctions
-SaT-DnA - Data Science Gen AI Manager,Pune,3.7,0,300000,600000,450000.0,EY
-Data Analytic & Data Science Faculty/Trainer,India,,1,20000,20000,20000.0,Mindforge Infotech
-Senior AI Engineer,,4.0,0,500000,700000,600000.0,Reltio
-Software Engineer- Search & AI,Bengaluru,4.1,0,400000,1000000,700000.0,Apple
-"Software Engineer (Framework), Ai & Data Platforms",Hyderābād,4.1,0,500000,800000,650000.0,Apple
-EY-GDS Consulting-AI And DATA-Gen AI-Senior,,3.7,0,400000,700000,550000.0,EY
-"Sr. Applied Scientist, Amazon Photos",Bengaluru,3.6,0,400000,1000000,700000.0,ADCI - Karnataka
-AI Data Scientist - Digital Engineering Sr. Engineer,Hyderābād,3.8,0,500000,800000,650000.0,NTT DATA
-Generative AI Developer,Pune,3.9,0,500000,500000,500000.0,XoriantːIN
-Senior Manager-Decision Scientist,Bengaluru,3.8,0,400000,1000000,700000.0,Tesco
-Specialized Analytics Manager - C12 - GURGAON,Gurgaon,3.7,0,600000,1000000,800000.0,Citigroup
-Merchandising Analytics,Bengaluru,4.2,0,300000,600000,450000.0,Fractal Analytics
-Manager - Data Science,Bengaluru,4.2,0,1000000,1000000,1000000.0,mPokket
-Machine Learning Engineer - C12 - BANGALORE,Bengaluru,3.7,0,100000,300000,200000.0,Citigroup
-Principal Member of Technical Staff (IC4)- (OCI AI Data Org.),Bengaluru,3.8,0,700000,900000,800000.0,Oracle
-Lead Data Science,Pune,3.9,0,300000,700000,500000.0,Tekdi Technologies
-"Associate Director, Data Science",Bengaluru,3.8,0,600000,900000,750000.0,Standard Chartered
-Director Technical Program Manager Data & Analytics- Cloud Migration,Hyderābād,4.1,0,500000,1000000,750000.0,JPMorganChase
-Principal AI Engineer,Chennai,4.0,0,800000,800000,800000.0,Ford Motor Company
-Application Support Group Manager - Big Data Platform - SVP,Pune,3.7,0,400000,800000,600000.0,Citigroup
-"Manager / Senior Manager, Data Science",Hyderābād,3.8,0,1000000,1000000,1000000.0,Micron Technology
-Senior Software Engineer – AI/ML,Bengaluru,3.8,0,300000,300000,300000.0,Weekday
-Statistical Analytics Engineer (F/M/D),Bengaluru,3.7,0,100000,200000,150000.0,Klüber Lubrication
-Lead - AI Program Delivery,Hyderābād,3.6,0,600000,800000,700000.0,Warner Bros. Discovery
-Senior AIML developer - AI LABs,Cochin,3.7,0,300000,600000,450000.0,EY
-"Senior Manager, Machine Learning Science",Bengaluru,3.8,0,900000,1000000,950000.0,Expedia Group
-Lead ML Engineer,Bengaluru,3.4,0,200000,600000,400000.0,Zeta Global
-Generative AI Architect,Thiruvananthapuram,4.1,0,300000,800000,550000.0,Techvantage Systems
-Engineer- Machine Learning,Chennai,3.9,0,200000,200000,200000.0,Qualcomm
-Product Development Engineer II - Machine Learning,Hyderābād,4.0,0,500000,800000,650000.0,Phenom People
-AI/ML Operations Lead,Bengaluru,3.9,0,600000,900000,750000.0,AGCO
-"Machine Learning Engineer, SEO Science",Bengaluru,3.9,0,400000,900000,650000.0,eBay
-Senior Technical Architect - Web Data & Analytics,Bengaluru,3.9,0,400000,900000,650000.0,Quicken
-Senior Products Operations Manager - Data Science Products,Hyderābād,,0,900000,900000,900000.0,Novartis
-Senior Machine Learning Engineer #7405,Hyderābād,3.4,0,700000,800000,750000.0,New Relic
-Generative AI Architect,Pune,3.9,0,600000,600000,600000.0,XoriantːIN
-Director - Enterprise AI Platform,Bengaluru,4.0,0,600000,1100000,850000.0,GSK
-Senior Machine Learning Engineer,Bengaluru,3.8,0,300000,500000,400000.0,Harness.io
-Lead I - Software Engineering (Machine Learning - Gen AI),Bengaluru,3.9,0,600000,800000,700000.0,UST Global
-Senior Specialist - Gen AI Business Analyst (Life Sciences),Hyderābād,,0,600000,800000,700000.0,Novartis
-Generative AI Solutions Lead,Pune,3.9,0,500000,500000,500000.0,XoriantːIN
-Sr Manager of Software Engineering,Bengaluru,4.1,0,300000,1000000,650000.0,JPMorganChase
-Senior ML Engineer,Nāgpur,3.2,0,100000,800000,450000.0,Corpay
-Project Manager – Analytics Consulting and SaaS Implementation,Gurgaon,2.6,0,500000,900000,700000.0,AiDash
-Senior Software Engineer - AI/ML Engineer,Chennai,3.7,0,200000,1000000,600000.0,"Viasat, Inc."
-Principal AI ML Engineer,Bengaluru,4.0,0,200000,500000,350000.0,Ericsson
-Associate Director - Gen AI Business Analyst (Life Sciences),Hyderābād,,0,600000,800000,700000.0,Novartis
-Senior ML Engineer,Hyderābād,3.8,0,100000,200000,150000.0,Uber
-Principal Machine Learning Engineer,Hyderābād,4.0,0,300000,700000,500000.0,Amgen
-Senior Manager - Pricing Analytics,Hyderābād,4.1,0,600000,600000,600000.0,Thomson Reuters
-"Technical Lead (Machine Learning, Python) - C13 - VP - Pune",Pune,3.7,0,100000,300000,200000.0,Citigroup
-Data Scientist,Bengaluru,4.2,0,700000,1000000,850000.0,NetApp
-Data Scientist I,Bengaluru,3.6,0,200000,800000,500000.0,Sixt
-Payments - Data Scientist Associate,Mumbai,4.1,0,300000,500000,400000.0,JPMorganChase
-Data Analyst,Thiruvananthapuram,3.0,1,15000,25000,20000.0,Marikar (Motors) Ltd
-ASSOCIATE DATA SCIENTIST,Gurgaon,3.8,0,200000,1000000,600000.0,McCormick
-Data Scientist,Hyderābād,4.0,0,500000,1000000,750000.0,Amgen
-Data Scientist (US Value & Access Insights),Hyderābād,4.0,0,500000,1000000,750000.0,Amgen
-Data Scientist_R&D,Bengaluru,3.1,0,600000,900000,750000.0,Avathon
-AIML - Data Scientist - Hyderabad,Chennai,3.6,0,500000,900000,700000.0,Cognizant
-Principal Data Scientist (Demand Forecasting),Bengaluru,4.3,0,1000000,1000000,1000000.0,Texas Instruments
-"Data Scientist II, Payment Risk Machine Learning",Hyderābād,3.6,0,500000,1000000,750000.0,Amazon Dev Center India - Hyderabad
-Data Science Trainer,India,4.8,0,0,0,0.0,Certybox
-Data Scientist & Gen AI Consultant(BTP D@S),Gurgaon,1.0,0,500000,800000,650000.0,SAP Group
-Decision Scientist - Associate,Mumbai,3.8,0,300000,800000,550000.0,FedEx AMEA
-Data Scientist,Gurgaon,3.1,0,200000,800000,500000.0,Circle K
-CFL Data Scientist,Bengaluru,4.0,0,400000,1000000,700000.0,SUSE
-Principal Member of technical Staff- AI & Data Engineering,Chennai,4.1,0,500000,800000,650000.0,Athenahealth
+Data Scientist,Bhubaneshwar,4.3,0,1000000,2300000,1650000,Nirmalya Labs
+Data Analytics Lead Analyst - C13 - BANGALORE,Bengaluru,3.7,0,600000,1000000,800000,Citi
+Business Analyst – Digital Analytics ( Adobe ),Bengaluru,3.7,0,500000,1000000,750000,Citi
+"Sr. Consultant, Data Science and Analytics",Bengaluru,4,0,1000000,1000000,1000000,TransUnion
+Lead Data Analytics Analyst (Vice President),Bengaluru,3.7,0,600000,1000000,800000,Citi
+AI Operations and Optimization Manager,Pune,3.7,0,500000,600000,550000,Ecolab Inc.
+"Data Scientist II, Last Mile Science",Bengaluru,3.6,0,500000,1000000,750000,ADCI - Karnataka
+Data Science Specialist - OptimusAI (Mining/Metal/Chemicals),Bengaluru,4.1,0,400000,1000000,700000,McKinsey & Company
+Senior Data Scientist,Gurgaon,4,0,700000,900000,800000,Gartner
+Data Analyst,Surat,3.8,1,35000,35000,35000,Stratefix Consulting
+Data Scientist,Hyderābād,3.9,0,500000,1000000,750000,"World Wide Technology Holding, LLC"
+Associate Machine Learning,Gurgaon,3.2,0,400000,500000,450000,Sprinklr
+Data Science Trainer,Hyderābād,4.4,1,20000,30000,25000,Fireblaze AI School
+Data Science Engineer-ML/NLP,Bengaluru,3.7,0,500000,800000,650000,Relyance AI
+AI Engineer,Noida,3.5,0,300000,800000,550000,Product and Technology
+"Manager, Data Science",Bengaluru,2.9,0,300000,700000,500000,Ansira
+Senior Manager (Data Science),Bengaluru,3.5,0,800000,900000,850000,Factspan
+Senior Data Science Lead – R01551339,Chennai,4,0,800000,1000000,900000,Brillio
+"Analyst, DACI Analytics",Bengaluru,4.2,0,700000,800000,750000,Lowe's
+"Senior Analyst, Marketing Analytics",Bengaluru,3.6,0,600000,1000000,800000,Bluevine - India
+"Senior Analyst, BI Sales Analytics",Hyderābād,4.1,0,500000,700000,600000,S&P Global
+Solution Architect Director (Data Science & AI/ML),Bengaluru,3.5,0,300000,400000,350000,Factspan
+IN-Senior Associate_Integration Engineer _Data and Analytics_Advisory_Bangalore,Bengaluru,3.7,0,600000,800000,700000,PwC
+AI Architect/Lead,Bengaluru,4,0,600000,800000,700000,Lilly
+AI ML Engineer,Ahmedabad,3.7,0,300000,800000,550000,"Arrow Electronics, Inc."
+AI - Senior Staff Engineer,Hyderābād,4,0,400000,400000,400000,Synopsys
+Principal Analyst (Machine Learning Engineer),Bengaluru,3.5,0,300000,400000,350000,Factspan
+Senior ML engineer - SAP Business AI - SAP Knowledge Graph,Bengaluru,4.2,0,200000,400000,300000,SAP
+"Data Scientist Product, Google One and Photos",Bengaluru,4.3,0,100000,900000,500000,Google
+Data Analyst,Pune,3.6,0,800000,1100000,950000,Equifax
+Senior Data Scientist,Pune,,0,200000,800000,500000,UNITY Systems
+Senior Applied Scientist II,Bengaluru,4.1,0,300000,900000,600000,Thomson Reuters
+Technical Architect - GCP AI (Gemini),Bengaluru,3.5,0,300000,300000,300000,Atos
+Principal Consultant -AI ML Engineer,Bengaluru,3.8,0,900000,1000000,950000,Genpact
+Data Scientist,Vadodara,3.8,0,500000,1100000,800000,NielsenIQ
+Data Scientist,India,2.5,0,1600000,2000000,1800000,Scymes Services PVT. LTD.
+Data Scientist II,Chennai,4.2,0,200000,500000,350000,Toyota Connected India
+Data Scientist,Pune,3.6,0,400000,900000,650000,Wipro Limited
+Data Scientist (2–4 Yr),Mumbai,4.1,0,300000,1000000,650000,XS CAD India Pvt. Ltd
+Data Scientist,Bengaluru,3.8,0,200000,200000,200000,Commonwealth Bank
+Data Analyst,Pune,3.7,0,800000,900000,850000,Johnson Controls
+Data Scientist,Pune,3.9,0,500000,800000,650000,Cybage
+Lead Data Scientist - Ad Tech,Bengaluru,4.2,0,400000,400000,400000,Target
+"Data Scientist, Senior",Bengaluru,3.8,0,300000,1000000,650000,o9 Solutions
+Data Scientist Senior,Bengaluru,3.8,0,200000,200000,200000,Commonwealth Bank
+Senior Applied Data Scientist,Bengaluru,3.7,0,700000,1000000,850000,LSEG (London Stock Exchange Group)
+Data Scientist 4,Chennai,3.8,0,700000,800000,750000,Comcast
+"Senior Data Scientist, Operations (Gen AI)",Mumbai,3.8,0,1000000,1100000,1050000,Argus Media
+Junior Program Associate– Climate-Energy-Economic Modelling,Mumbai,3.7,0,700000,800000,750000,WRI India
+Senior Data Scientist,Mumbai,3.8,0,1000000,1200000,1100000,Abbott Laboratories
+"Lead Data Scientist, Operations (Gen AI)",Mumbai,3.8,0,1000000,1100000,1050000,Argus Media
+Generative AI Platform,Bengaluru,3.7,0,300000,400000,350000,CGI
+"Manager, Data Science",Bengaluru,3.8,0,1000000,1000000,1000000,Standard Chartered
+Senior Data Scientist - Agentic AI & MLOps,,3.6,0,400000,900000,650000,Securonix
+Lead AI/ML Engineer,Bengaluru,3.6,0,2400000,200000,1300000,Okta
+Associate Architect - Machine Learning,Bengaluru,4.2,0,600000,900000,750000,Quantiphi
+Senior ML Engineer,Chennai,3.8,0,700000,900000,800000,Standard Chartered
+Sr ML Engineer,Bengaluru,3.8,0,600000,900000,750000,Visa
+"Director, Buyer Experience AI R&D",Bengaluru,3.9,0,500000,1000000,750000,eBay
+Senior AI/ML Engineer,Bengaluru,3.6,0,500000,900000,700000,nVent
+Vice President – Fraud Analytics and Operations,Chennai,4.1,0,700000,900000,800000,Fidelity Investments
+Member of Technical Staff - 3 [AI/ML],Bengaluru,3.9,0,500000,600000,550000,Nutanix
+Data Scientist,Delhi,3.6,0,600000,1200000,900000,Applore Technologies Pvt. Ltd
+Data Scientist,Noida,3.6,0,800000,1000000,900000,Clarivate
+Data Scientist,,3.6,0,1000000,1000000,1000000,Qualys
+Data Scientist,Mumbai,4.5,0,500000,900000,700000,INCHES Healthcare
+"Data Scientist, Research, App Safety Engineering",Bengaluru,4.3,0,100000,900000,500000,Google
+Senior Applied & Data scientist,Hyderābād,4.2,0,300000,1000000,650000,Microsoft
+Data Scientist,Bengaluru,3.7,0,400000,600000,500000,MOLECULAR CONNECTIONS
+"Data Scientist, Amazon Payments (Level 5), Amazon",Bengaluru,3.6,0,500000,1000000,750000,ADCI - Karnataka
+"Applied Scientist I, Geospatial Science, Last Mile",Hyderābād,3.6,0,300000,1000000,650000,ADCI HYD 13 SEZ
+Data Scientist,Hyderābād,4.1,0,600000,800000,700000,Thomson Reuters
+Data Scientist - AWS Professional Services,Bengaluru,3.7,0,700000,1000000,850000,AWS ProServe IN - Karnataka
+Senior Data Scientist,Bengaluru,4.1,0,700000,1000000,850000,Fidelity Investments
+Trainer/Faculty - Artificial Intelligence & Data Science,Cochin,5,1,15000,20000,17500,TECACS IT GROUP PVT LTD
+"Team Lead, Data Analytics",Noida,4.3,0,700000,800000,750000,CoreLogic
+AI Data Engineer,Hyderābād,3.8,0,500000,900000,700000,NTT DATA
+Python Machine Learning,Mohali,3.9,1,30000,80000,55000,iTechnolabs
+Data Science Analyst (Standard),Gurgaon,3.7,0,400000,600000,500000,Infogain
+Lead Data Scientist,Coimbatore,4,0,400000,800000,600000,"EPAM Systems, Inc."
+Senior Data Scientist - AWS Professional Services,Mumbai,3.7,0,600000,900000,750000,AWS ProServe IN - Maharashtra
+AI/ML Engineer (Python Developer),Bengaluru,4.2,0,500000,600000,550000,Cybernetyx
+Machine Learning Engineer,Gurgaon,4.1,0,600000,600000,600000,Paxcom India
+Senior Data Scientist,Bengaluru,4.1,0,500000,800000,650000,Thomson Reuters
+Machine Learning Engineer,Bengaluru,4.1,0,500000,600000,550000,Autodesk
+Senior Digital Analyst (MCI),Gurgaon,4.4,0,400000,900000,650000,TRU IT
+Data Science Analyst (Senior),Mumbai,3.7,0,400000,600000,500000,Infogain
+Manager - Data Science,Gurgaon,4.1,0,400000,600000,500000,Amex
+Talent Services - Manager - Learning Operations (Insights),Hyderābād,3.9,0,500000,900000,700000,Deloitte
+Specialist - AI Development,Bengaluru,3.6,0,400000,900000,650000,Carrier
+Senior Engineer - Machine Learning,Gurgaon,3.8,0,900000,1000000,950000,United Airlines
+Director/Sr.Director of AI Engineering,Bengaluru,3.6,0,300000,700000,500000,Credit Saison
+"Manager, AI Enablement",Bengaluru,4.1,0,200000,700000,450000,Thomson Reuters
+Modelling and Analytics Senior Manager,Bengaluru,3.8,0,200000,200000,200000,Commonwealth Bank
+AI Research Engineer (Model Evaluation),Bengaluru,3.1,0,500000,900000,700000,Tether Operations Limited
+Senior Machine Learning Engineer,Bengaluru,4.1,0,500000,600000,550000,Autodesk
+"Principal Engineer - Development (Machine Learning, Python)",Pune,3.7,0,200000,900000,550000,FIS Global
+AI/ML Engineer – Team Lead,Ahmedabad,3.6,0,400000,400000,400000,NexusLink Services
+Lead Consultant - ML Engineer,Hyderābād,3.8,0,700000,800000,750000,Genpact
+Machine Learning Engineer,,4.2,1,15000,25000,20000,CompIndia Infotech Pvt Ltd
+Mid Data Scientist,Bengaluru,4.2,0,600000,900000,750000,Reflections Info Systems
+Data Analyst Trainer,Madurai,4,1,12000,18000,15000,Elysium Group of Companies
+Lead Decision Scientist,Bengaluru,3.8,0,400000,1000000,700000,Tesco India
+Lab45 - AI-ML Engineer,Bengaluru,3.6,0,600000,700000,650000,Wipro Limited
+"Machine Learning Manager, Apple Intelligence",Bengaluru,4.1,0,600000,1000000,800000,Apple
+AI/ML Engineer - 5 to 10 yrs,Chennai,3.6,0,400000,600000,500000,Wipro Limited
+Digital Practice Lead_Data & AI,Mumbai,3.9,0,300000,1000000,650000,Savic
+Data Science Trainer,India,4.3,0,300000,800000,550000,Itvedant Education Pvt Ltd
+Asst. Manager - Fraud Analytics,Noida,3.9,0,800000,900000,850000,Barclays
+AI Product Owner,Pune,3.7,0,800000,1000000,900000,Johnson Controls
+"Senior Manager – Data science, data modelling and analytics",Bengaluru,3.6,0,500000,600000,550000,Dentsu
+Senior Analyst - Data Scientist,Noida,3.9,0,800000,1000000,900000,Barclays
+Data Scientist,India,3.7,1,20000,30000,25000,i-Sourcing Technologies Private Limited
+Data Scientist & LLM Operations Specialist- Contract to hire,,4.2,0,500000,1600000,1050000,Rapsys Technologies
+Data Scientist Senior Associate,Bengaluru,3.8,0,200000,200000,200000,Commonwealth Bank
+LLM - Machine Learning TensorFlow + JAX,Remote,,0,1000000,1500000,1250000,GiantMind Solutions
+Senior Data Scientist,Bengaluru,4,0,400000,900000,650000,Ericsson
+AI/ML Associate Engineer,Hyderābād,4.4,0,300000,800000,550000,Acads360 India Private Limited
+Lead Data Scientist,Pune,4.2,0,200000,200000,200000,Mastercard
+LLM - Machine Learning TensorFlow + JAX,Remote,,0,1500000,2500000,2000000,Nithminds Private limited
+Data Science Tutor,Thiruvananthapuram,4.2,1,8000,15000,11500,Avodha Edutech Pvt Ltd
+AI & ML Engineer,Calcutta,4.7,0,200000,700000,450000,Geogo Techsolutions
+Lead - Data Analytics and Insights,Bengaluru,4.1,0,1000000,1000000,1000000,Fidelity Investments
+AI/ML Engineer,Hyderābād,4.2,0,600000,900000,750000,Hewlett Packard Enterprise
+Atmospheric Scientist/Statistician I,Hyderābād,4,0,500000,700000,600000,Verisk
+EDU Manager-RAMS-Data Analytics,Bengaluru,3.8,0,500000,600000,550000,ALSTOM
+"VP, RC AI and Analytics",Calcutta,3.9,0,200000,900000,550000,HSBC
+Storm Surge Specialist using Machine Learning,Hyderābād,4,0,300000,700000,500000,Verisk
+Staff Analytics SpecialistNew,Bengaluru,3.6,0,1000000,1000000,1000000,Razorpay
+IN-Manager_Azure Data Engineer_Data & Analytics_Advisory_Noida,Noida,3.7,0,700000,1000000,850000,PwC
+"Sr. Analyst, Marketing Strategy & Analytics",Bengaluru,3.7,0,200000,300000,250000,Zscaler
+Data Scientist,Chennai,4,0,500000,900000,700000,Ford Motor Company
+Data Scientist,Bengaluru,4.1,0,400000,900000,650000,GE Aerospace
+Data Scientist (Credit),Bengaluru,3.8,0,900000,1000000,950000,Revolut
+Data Science Researcher/SME,Noida,5,1,20000,30000,25000,Isad group
+"Senior Data Scientist - AIML, Cloud, PowerBI",Noida,3.5,0,300000,1000000,650000,Optum
+Data Science Mentor,Remote,4.4,1,15000,20000,17500,UniConverge Technologies Pvt. Ltd.
+Experienced Data Scientist,Bengaluru,3.7,0,600000,800000,700000,BOEING
+Senior Data Scientist,Coimbatore,4,0,400000,800000,600000,"EPAM Systems, Inc."
+MIS cum Analyst,Noida,3.9,0,100000,300000,200000,IKM Investors Private Limited
+Experienced AI/ML Engineer,Remote,4.4,0,400000,800000,600000,D3V Technology Solutions
+Senior Data Scientist,Bengaluru,3.9,0,400000,800000,600000,Takeda Pharmaceutical
+AI/ML Developer,Ahmedabad,,0,400000,700000,550000,Shayona Technology
+Senior Analyst-Data Analytics,Gurgaon,4.1,0,200000,300000,250000,Amex
+"Quant Analytics Associate - SQL, SAS/Alteryx/Tableau",Hyderābād,4.1,0,300000,900000,600000,JPMorganChase
+Assistant Manager - Data Science,Chennai,3.9,0,400000,600000,500000,LatentView Analytics
+Senior ML Engineer,India,3.8,0,700000,1900000,1300000,Samyak Infotech Pvt. Ltd
+Senior Machine Learning Engineer - R&D,Bengaluru,4.2,0,600000,900000,750000,Quantiphi
+Senior Engineer Consultant-Data Science,,4.1,0,500000,1000000,750000,Verizon
+Senior Machine Learning Operations Engineer,Mumbai,3.9,0,9000000,700000,4850000,Digimind
+ML Engineer,Bengaluru,4.4,0,100000,800000,450000,AceNet
+Senior Software Engineer: Data Science,Bengaluru,3,0,100000,200000,150000,Enphase Energy
+Lead - Analytics,Mumbai,3.7,0,200000,600000,400000,Bajaj Electricals
+Senior AI/ML Engineer – R01551251,Bengaluru,4,0,700000,1000000,850000,Brillio
+Lead Analytics SpecialistNew,Bengaluru,3.6,0,1000000,1000000,1000000,Razorpay
+"Sr. Manager, Data & AI systems architecture",Bengaluru,3.9,0,500000,900000,700000,AGCO
+Analytics Solutions - Vice President,Bengaluru,4.1,0,400000,600000,500000,JPMorganChase
+Data Scientist,Noida,3.6,0,400000,600000,500000,BIG OH TECH
+Data Scientist,Bengaluru,3.8,0,300000,300000,300000,Visa
+Data Scientist II,Bengaluru,4.2,0,200000,1000000,600000,Microsoft
+Data Scientist,Pune,3.9,0,800000,1000000,900000,Barclays
+Data Scientist,Bengaluru,3.7,0,500000,800000,650000,Virtusa
+Data Scientist - I,Bengaluru,4,0,200000,400000,300000,G2
+Data Scientist,Mohali,3.6,1,8000,15000,11500,eNest Technologies Pvt Ltd
+Data Scientist,India,3.3,0,1000000,2200000,1600000,NCRi Inc.
+Data Scientist,Mohali,4.9,1,45000,85000,65000,Primotech
+Senior Data Scientist - AI/ML,Chennai,3.8,0,300000,800000,550000,ZF
+Data Scientist/AI Engineer,Chennai,,0,1500000,1800000,1650000,Warrior tech solutions
+Data Scientist,Tirupati,3.4,0,200000,200000,200000,Young Minds Technology Solutions Pvt Ltd
+Data Scientist,Gurgaon,5,0,800000,900000,850000,Amlgo Labs
+"Data Scientist, VP",Bengaluru,4.1,0,300000,500000,400000,NatWest Group
+Data Scientist (135),Gurgaon,3.8,0,400000,700000,550000,amdocs
+Data Science Trainee,Thāne,3.9,0,300000,900000,600000,LANXESS
+Data Scientist – Smart Metering,,,1,80000,90000,85000,JSG Consulting
+Data Scientist,Gurgaon,4.4,0,500000,600000,550000,Think Future Technologies
+Data Scientist,Bengaluru,3.8,0,100000,600000,350000,ALSTOM
+Lead Data Scientist,Chennai,4.2,0,1500000,2000000,1750000,Ignitho Technologies
+"Data Scientist, gTech Ads Solutions",Gurgaon,4.3,0,100000,1000000,550000,Google
+Data Scientist 3,Bengaluru,4.1,0,400000,500000,450000,Amadeus IT Group SA
+Marketing Analytics Specialist,Hyderābād,3.7,0,200000,700000,450000,Zelis
+Senior Data Scientist,Bengaluru,3.4,0,500000,900000,700000,First Advantage
+Specialist Data Scientist,,4.3,0,1000000,1000000,1000000,NICE Systems
+Technical Specialist - Data Scientist,Gurgaon,3.8,0,600000,800000,700000,Fidelity International
+AI/ML Data Scientist,Hyderābād,4,0,400000,500000,450000,Sanofi
+Data Scientist I,,3.9,0,400000,1000000,700000,AGCO
+Senior Statistical Data Scientist,Chennai,3.8,0,500000,700000,600000,Pfizer
+Sr Data Scientist - ML/OR,Bengaluru,3.4,0,400000,1000000,700000,Target
+C13-VP-Data Scientist-Fraud Model Development -PUNE,Pune,3.7,0,300000,400000,350000,Citigroup
+Data Scientist II - GBS IND,Chennai,3.9,0,200000,700000,450000,Bank of America
+Senior Data Scientist,Noida,3.5,0,300000,1000000,650000,Optum
+Data Scientist Associate Sr,Bengaluru,4.1,0,300000,500000,400000,JPMorganChase
+Data Scientist,Bengaluru,3.8,0,900000,900000,900000,Kyndryl
+Data Scientist - C13 - VP - PUNE,Pune,3.7,0,300000,400000,350000,Citigroup
+Lead Data Scientist-Stores,Bengaluru,4.2,0,400000,400000,400000,Target
+Senior Data Scientist,Bengaluru,4.7,0,0,0,0,MASTER MIND CONSULTANCY
+AI/ML Engineer,Noida,4.1,0,400000,500000,450000,Techahead Software Pvt. Ltd.
+"(Remote, India) Sr. Data Scientist, Analytics R&D",Navi Mumbai,4.4,0,400000,1000000,700000,PulsePoint
+Senior Data Scientist,Bengaluru,3.3,0,400000,700000,550000,Mico
+Machine Learning Engineer,India,3.3,0,500000,500000,500000,National Credit Recovery Inc
+AI/ML - Jr & Sr Positions,Remote,,1,5000,5000,5000,CCPL
+"Associate Specialist, Data Science",Noida,3.5,0,500000,900000,700000,Pentair
+Commercial Data Scientist,Bengaluru,3.6,0,700000,900000,800000,ExxonMobil
+Data Scientist,Bengaluru,4.5,0,100000,1000000,550000,PradeepIT Consulting Services
+Senior Data Scientist | Machine Learning Engineer (MLE),Pune,,0,1100000,1100000,1100000,hirezy.ai
+Senior Data Scientist,Noida,4.2,0,200000,600000,400000,Tractable
+Gen AI Agentic AI - Jr & Sr Positions,Remote,,1,11000,11000,11000,CCPL
+Senior Data Scientist,Bengaluru,4,0,400000,800000,600000,Caterpillar
+Decision Scientist,Bengaluru,4.1,0,400000,900000,650000,PhonePe
+Senior Data Scientist,,3.4,0,200000,600000,400000,Data Axle
+Sr. Data Scientist,Pune,3.7,0,500000,800000,650000,LogicMonitor
+Data Scientist,Hyderābād,3.8,0,500000,800000,650000,NTT DATA
+AI Developer,,3.8,0,300000,1000000,650000,Weekday
+"Associate - Data, Insights & Analytics",Bengaluru,4.1,0,700000,1000000,850000,JPMorganChase
+AI ML Engineer,Remote,4.5,0,400000,1500000,950000,Welkin Soft Tech Pvt. Ltd
+SR DATA SCIENTIST I GLOBAL,Gurgaon,3.8,0,200000,1000000,600000,McCormick
+APPLIED AI SCIENTIST,Cochin,4,0,500000,600000,550000,GadgEon
+Lead Data Scientist,Hyderābād,4,0,600000,600000,600000,Technovert
+Lead Data Scientist,Gurgaon,4.1,0,800000,900000,850000,S&P Global
+CCB_Data and Analytics - AI ML Associate,Mumbai,4.1,0,200000,300000,250000,JPMorganChase
+Data Science Trainer,India,4.7,0,800000,1200000,1000000,Innomatics Research Labs
+Principle Applied Scientist - Computer VIsion,Bengaluru,3.9,0,300000,600000,450000,RadiusAI
+"Data Engineer, Product Analytics",Bengaluru,3.8,0,400000,900000,650000,Meta
+Lead Data Scientist-Stores,Bengaluru,3.4,0,400000,1000000,700000,Target
+Machine Learning Engineer - India,Noida,3.6,0,300000,700000,500000,Escalent
+Machine Learning Engineer 2,Noida,4.2,0,3600000,6000000,4800000,Adobe
+Senior Data Scientist - Supply Chain Management (m/f/d),Bengaluru,3.9,0,300000,800000,550000,aioneers
+Machine Learning Engineer,India,3.6,1,6000,8000,7000,Vidhema Technologies
+Digital-Staff-Machine Learning Developer,Chennai,3.7,0,300000,600000,450000,EY
+Manager_Lead_Data Scientist_Pune,Pune,3.9,0,600000,900000,750000,Vodafone
+Faculty - Data Science,Hyderābād,3.9,0,500000,800000,650000,Naresh I Technologies
+Data Science Trainer,Cochin,4.7,1,18000,18000,18000,KOMPETENZEN TECHNOLOGIES
+Data Science Trainer,Thāne,2.4,1,20000,35000,27500,Nettech India
+Data Science Engineer 3,Noida,4.2,0,1000000,1000000,1000000,Adobe
+AI/ML Expert,Chennai,4,0,800000,800000,800000,Ford Motor Company
+Principal Data Scientist,Bengaluru,4.1,0,400000,900000,650000,Honeywell
+Data Scientist Manager,Pune,4.7,0,0,0,0,MASTER MIND CONSULTANCY
+Senior Data Scientist,Mumbai,4.7,0,500000,900000,700000,Phygital Insights
+"Cloud Engineer, AI",Bengaluru,4.3,0,300000,1000000,650000,Google
+AI or ML Engineer,Noida,3.5,0,100000,600000,350000,Optum
+Machine Learning Engineer- LLM,Hyderābād,4.1,0,800000,900000,850000,Apple
+Data and Analytics -Pricing and Commercial - Senior,Bengaluru,3.7,0,300000,400000,350000,EY
+"Applied Scientist II, India Machine Learning",Bengaluru,3.6,0,300000,500000,400000,ADCI - Karnataka
+Associate - Analytics Solutions,Bengaluru,4.1,0,700000,1000000,850000,JPMorganChase
+Consultant - Insights & Analytics (Forecasting),Hyderābād,4.2,0,400000,700000,550000,Chryselys
+AI or ML Engineer,Bengaluru,3.5,0,200000,800000,500000,Optum
+AI Lead,Bengaluru,3.7,0,300000,400000,350000,CGI
+"Director, Data Science",,3.5,0,600000,700000,650000,Brainlabs
+SaT-DNA-Data & AI Strategy-Associate Director,Bengaluru,3.7,0,400000,700000,550000,EY
+AI/ML Engineer,Ahmedabad,4.8,0,400000,600000,500000,Glasier Inc
+COMPUTER VISION & EDGE AI ENGINEER,Cochin,4,0,500000,600000,550000,GadgEon
+AI/ML Engineer,Hosūr,4,0,300000,300000,300000,GBrit Software Solutions Pvt Ltd
+EY - GDS Consulting - AI & DATA -Statistical Modeler - Senior,Pune,3.7,0,300000,600000,450000,EY
+"Software Engineer, Machine Learning Compilers",Bengaluru,4.3,0,200000,1000000,600000,Google
+AI/ML Engineer,Noida,3.5,0,100000,600000,350000,Optum
+Data Science Analyst (Senior),Gurgaon,3.7,0,400000,600000,500000,Infogain
+Risk Data Engineer Senior-AWS-Data Scientist,Pune,3.7,0,600000,1000000,800000,EY
+EY - GDS Consulting - AI and DATA - AWS Data Engineer - Senior,Hyderābād,3.7,0,600000,1000000,800000,EY
+AI/ML Engineer,Bengaluru,3.7,0,500000,600000,550000,Cloudifyops
+Product Development Engineer I - Machine Learning,Hyderābād,4,0,500000,800000,650000,Phenom People
+Technical Trainer (Faculty)- Data science,,4,0,300000,800000,550000,Cranes Varsity
+Marketing Analytics Manager,Mumbai,5,0,3000000,5500000,4250000,Shamrock Value Private Limited
+AI/ML Engineer,Mohali,,1,20000,20000,20000,Research Infinite Solutions LLP
+"Engineer 4, Machine Learning",Chennai,3.8,0,200000,200000,200000,Comcast
+Graph Engineer- Data Science,Bengaluru,3.9,0,500000,700000,600000,Harman International
+Staff Engineer- Machine Learning,Chennai,3.9,0,400000,600000,500000,Qualcomm
+Manager Data Science,Bengaluru,3.3,0,200000,200000,200000,iSOCRATES
+Product Manager II - AI Knowledge,,3.8,0,200000,500000,350000,Uber
+SaT-DnA-Data Science Gen AI Assistant Manager,Bengaluru,3.7,0,400000,700000,550000,EY
+Internal Audit - Embedded Data Analytics - Associate - Bengaluru,Bengaluru,3.8,0,400000,500000,450000,Goldman Sachs
+"Machine Learning Engineer III, MLOps",Chennai,3.3,0,300000,800000,550000,ACV Auctions
+SaT-DnA - Data Science Gen AI Manager,Pune,3.7,0,300000,600000,450000,EY
+Data Analytic & Data Science Faculty/Trainer,India,,1,20000,20000,20000,Mindforge Infotech
+Senior AI Engineer,,4,0,500000,700000,600000,Reltio
+Software Engineer- Search & AI,Bengaluru,4.1,0,400000,1000000,700000,Apple
+"Software Engineer (Framework), Ai & Data Platforms",Hyderābād,4.1,0,500000,800000,650000,Apple
+EY-GDS Consulting-AI And DATA-Gen AI-Senior,,3.7,0,400000,700000,550000,EY
+"Sr. Applied Scientist, Amazon Photos",Bengaluru,3.6,0,400000,1000000,700000,ADCI - Karnataka
+AI Data Scientist - Digital Engineering Sr. Engineer,Hyderābād,3.8,0,500000,800000,650000,NTT DATA
+Generative AI Developer,Pune,3.9,0,500000,500000,500000,XoriantːIN
+Senior Manager-Decision Scientist,Bengaluru,3.8,0,400000,1000000,700000,Tesco
+Specialized Analytics Manager - C12 - GURGAON,Gurgaon,3.7,0,600000,1000000,800000,Citigroup
+Merchandising Analytics,Bengaluru,4.2,0,300000,600000,450000,Fractal Analytics
+Manager - Data Science,Bengaluru,4.2,0,1000000,1000000,1000000,mPokket
+Machine Learning Engineer - C12 - BANGALORE,Bengaluru,3.7,0,100000,300000,200000,Citigroup
+Principal Member of Technical Staff (IC4)- (OCI AI Data Org.),Bengaluru,3.8,0,700000,900000,800000,Oracle
+Lead Data Science,Pune,3.9,0,300000,700000,500000,Tekdi Technologies
+"Associate Director, Data Science",Bengaluru,3.8,0,600000,900000,750000,Standard Chartered
+Director Technical Program Manager Data & Analytics- Cloud Migration,Hyderābād,4.1,0,500000,1000000,750000,JPMorganChase
+Principal AI Engineer,Chennai,4,0,800000,800000,800000,Ford Motor Company
+Application Support Group Manager - Big Data Platform - SVP,Pune,3.7,0,400000,800000,600000,Citigroup
+"Manager / Senior Manager, Data Science",Hyderābād,3.8,0,1000000,1000000,1000000,Micron Technology
+Senior Software Engineer – AI/ML,Bengaluru,3.8,0,300000,300000,300000,Weekday
+Statistical Analytics Engineer (F/M/D),Bengaluru,3.7,0,100000,200000,150000,Klüber Lubrication
+Lead - AI Program Delivery,Hyderābād,3.6,0,600000,800000,700000,Warner Bros. Discovery
+Senior AIML developer - AI LABs,Cochin,3.7,0,300000,600000,450000,EY
+"Senior Manager, Machine Learning Science",Bengaluru,3.8,0,900000,1000000,950000,Expedia Group
+Lead ML Engineer,Bengaluru,3.4,0,200000,600000,400000,Zeta Global
+Generative AI Architect,Thiruvananthapuram,4.1,0,300000,800000,550000,Techvantage Systems
+Engineer- Machine Learning,Chennai,3.9,0,200000,200000,200000,Qualcomm
+Product Development Engineer II - Machine Learning,Hyderābād,4,0,500000,800000,650000,Phenom People
+AI/ML Operations Lead,Bengaluru,3.9,0,600000,900000,750000,AGCO
+"Machine Learning Engineer, SEO Science",Bengaluru,3.9,0,400000,900000,650000,eBay
+Senior Technical Architect - Web Data & Analytics,Bengaluru,3.9,0,400000,900000,650000,Quicken
+Senior Products Operations Manager - Data Science Products,Hyderābād,,0,900000,900000,900000,Novartis
+Senior Machine Learning Engineer #7405,Hyderābād,3.4,0,700000,800000,750000,New Relic
+Generative AI Architect,Pune,3.9,0,600000,600000,600000,XoriantːIN
+Director - Enterprise AI Platform,Bengaluru,4,0,600000,1100000,850000,GSK
+Senior Machine Learning Engineer,Bengaluru,3.8,0,300000,500000,400000,Harness.io
+Lead I - Software Engineering (Machine Learning - Gen AI),Bengaluru,3.9,0,600000,800000,700000,UST Global
+Senior Specialist - Gen AI Business Analyst (Life Sciences),Hyderābād,,0,600000,800000,700000,Novartis
+Generative AI Solutions Lead,Pune,3.9,0,500000,500000,500000,XoriantːIN
+Sr Manager of Software Engineering,Bengaluru,4.1,0,300000,1000000,650000,JPMorganChase
+Senior ML Engineer,Nāgpur,3.2,0,100000,800000,450000,Corpay
+Project Manager – Analytics Consulting and SaaS Implementation,Gurgaon,2.6,0,500000,900000,700000,AiDash
+Senior Software Engineer - AI/ML Engineer,Chennai,3.7,0,200000,1000000,600000,"Viasat, Inc."
+Principal AI ML Engineer,Bengaluru,4,0,200000,500000,350000,Ericsson
+Associate Director - Gen AI Business Analyst (Life Sciences),Hyderābād,,0,600000,800000,700000,Novartis
+Senior ML Engineer,Hyderābād,3.8,0,100000,200000,150000,Uber
+Principal Machine Learning Engineer,Hyderābād,4,0,300000,700000,500000,Amgen
+Senior Manager - Pricing Analytics,Hyderābād,4.1,0,600000,600000,600000,Thomson Reuters
+"Technical Lead (Machine Learning, Python) - C13 - VP - Pune",Pune,3.7,0,100000,300000,200000,Citigroup
+Data Scientist,Bengaluru,4.2,0,700000,1000000,850000,NetApp
+Data Scientist I,Bengaluru,3.6,0,200000,800000,500000,Sixt
+Payments - Data Scientist Associate,Mumbai,4.1,0,300000,500000,400000,JPMorganChase
+Data Analyst,Thiruvananthapuram,3,1,15000,25000,20000,Marikar (Motors) Ltd
+ASSOCIATE DATA SCIENTIST,Gurgaon,3.8,0,200000,1000000,600000,McCormick
+Data Scientist,Hyderābād,4,0,500000,1000000,750000,Amgen
+Data Scientist (US Value & Access Insights),Hyderābād,4,0,500000,1000000,750000,Amgen
+Data Scientist_R&D,Bengaluru,3.1,0,600000,900000,750000,Avathon
+AIML - Data Scientist - Hyderabad,Chennai,3.6,0,500000,900000,700000,Cognizant
+Principal Data Scientist (Demand Forecasting),Bengaluru,4.3,0,1000000,1000000,1000000,Texas Instruments
+"Data Scientist II, Payment Risk Machine Learning",Hyderābād,3.6,0,500000,1000000,750000,Amazon Dev Center India - Hyderabad
+Data Science Trainer,India,4.8,0,0,0,0,Certybox
+Data Scientist & Gen AI Consultant(BTP D@S),Gurgaon,1,0,500000,800000,650000,SAP Group
+Decision Scientist - Associate,Mumbai,3.8,0,300000,800000,550000,FedEx AMEA
+Data Scientist,Gurgaon,3.1,0,200000,800000,500000,Circle K
+CFL Data Scientist,Bengaluru,4,0,400000,1000000,700000,SUSE
+Principal Member of technical Staff- AI & Data Engineering,Chennai,4.1,0,500000,800000,650000,Athenahealth
+Senior Software Engineer,Gurgaon,3.5,0,600000,1000000,800000,Optum
+Applications Development Sr Programmer Analyst - C12 - CHENNAI,Chennai,3.7,0,700000,1000000,850000,Citi
+Conversation AI Developer,Remote,4,0,1000000,4000000,2500000,Resolink Technologies Private Limited
+AI Developer,Delhi,4,1,25000,50000,37500,DIRO
+Python Developer – Generative AI,Bengaluru,,0,1100000,1700000,1400000,Mobile Programming India Pvt Ltd
+AI Developer,Cochin,2.9,1,15000,25000,20000,Voxtron Solutions LLP
+AI Developer,Coimbatore,3.8,1,14000,25000,19500,ENTHU TECHNOLOGY SOLUTIONS INDIA PVT LTD
+"Staff Software Developer, Machine Learning",Bengaluru,4,0,400000,900000,650000,Kinaxis Inc.
+AI Developer (Fresher),Ahmedabad,3.9,0,200000,800000,500000,Silent Infotech
+AI and ML Developer,Chennai,3.6,0,400000,900000,650000,White Mastery Systems
+Gen AI Developer,Remote,0,0,0,0,0,Begig
+AI/ML Developer (Fresher),Mumbai,4,0,300000,500000,400000,Openspace Services
+AI Developer,Chandigarh,4.1,0,300000,700000,500000,Suffes Com
+Junior Software Developer,Bengaluru,3.9,0,300000,700000,500000,The Scalers
+AI Developer,Thāne,3.8,0,700000,1000000,850000,WTW
+Gen AI Developer,Bengaluru,3.6,0,600000,700000,650000,Wipro Limited
+AI Developer,Coimbatore,3.6,0,200000,700000,450000,Shamla Tech Solution
+AI Developer,Mohali,4.8,1,70000,80000,75000,Softtrix Tech Solutions Private Limited
+AI/ML Lead,Gurgaon,3.8,0,300000,600000,450000,MKS Inc.
+Junior AI Developer,Ahmedabad,3,0,400000,700000,550000,Webential Technologies Pvt Ltd
+Python AI Developer,Mohali,3.8,1,80000,80000,80000,Sunfocus Solutions Pvt Ltd
+Junior Python Developer,India,3,0,200000,400000,300000,Dehazelabs
+Agentic AI developer,Pune,3.4,0,800000,1500000,1150000,Rapidera Technologies Pvt Ltd
+Junior Generative AI Developer,Indore,1,0,300000,500000,400000,CIS
+AI Developer,Chennai,4,0,300000,700000,500000,Introlligent
+Python AI/ML Developer,India,4.6,1,30000,60000,45000,Weavers Web Solutions Pvt. Ltd
+AI/ML Developer,Ahmedabad,,0,400000,700000,550000,Shayona Technology
+AI Developer,Noida,3.5,0,300000,700000,500000,Infopro Learning
+AI Developer,Noida,3.4,1,22000,25000,23500,Franciscan Solutions
+AI/ML Developer,India,4.1,0,700000,1000000,850000,Mindinventory
+Advanced JavaScript Developer,Remote,3,1,75000,80000,77500,accede solution
+Gen AI Developer,Bengaluru,4,0,500000,600000,550000,Creative Synergies Group
+AI/ML Engineer (Python Developer),Bengaluru,4.1,0,500000,600000,550000,Cybernetyx
+Senior Agentic AI developer,Remote,5,0,500000,600000,550000,FullStackTechies
+Python AI/ML Developer,Mohali,4,0,200000,700000,450000,Desirous Global Consulting
+AI/ML Developer,Bhopal,4.7,0,800000,800000,800000,Entit Consultancy Services Pvt Ltd
+Power BI Developer,India,3.2,1,15000,48000,31500,BizFlow
+ML/AI Developer,Visakhapatnam,3.4,0,400000,900000,650000,Novisync
+AI Engineer,Chennai,3.2,0,500000,2000000,1250000,CoinFantasy
+Gen AI Developer,Bengaluru,3.4,0,500000,600000,550000,Aritha
+AI/ML Developer,Ahmedabad,4.8,0,400000,600000,500000,Glasier Inc
+Applied AI Engineer,Remote,3.8,0,2000000,3000000,2500000,Webscale
+Python Developer,Thrissur,3,0,100000,600000,350000,Intellect Outsource
+AI/ML Developer,Nāgpur,3.3,1,35000,50000,42500,smartData Enterprises
+"Senior Software Engineer - .NET core, Angular or React and SQL",Noida,3.5,0,600000,1000000,800000,Optum
+AI Software Developer,Vadodara,3.6,0,200000,500000,350000,Technobits Digital
+Senior Developer - AI Technology,Pune,4,0,600000,700000,650000,Syngenta Group
+Junior Python Developer,Bengaluru,4,0,300000,800000,550000,Zzazz Inc
+Artifial Intelligence (AI) Developer,Gurgaon,,0,9700000,600000,5150000,Streamonweb
+AI/ML Engineer,Bengaluru,5,0,500000,600000,550000,Abstrabit Technologies Pvt Ltd
+D365/ Power Platform Developer,Remote,3.7,0,1000000,3000000,2000000,"MERP Systems, Inc."
+Associate Trainee,Pune,4.2,0,700000,800000,750000,Stratacent
+Gen AI Developer,Bengaluru,3.6,0,400000,900000,650000,Infosys Limited
+Associate I AI Engineer,Gurgaon,4.1,0,600000,1000000,800000,S&P Global
+CA0162 | React Developer,Hyderābād,4,0,300000,500000,400000,Cloudangles
+Python Developer,Pune,3.6,0,400000,800000,600000,Muks Robotics AI Pvt.Ltd.
+AI Developer,Ahmedabad,3,0,400000,700000,550000,Webential Technologies Pvt Ltd
+Salesforce Developer,Remote,3.3,0,1200000,2000000,1600000,Vamstar
+AI Application Developer,Coimbatore,3.1,0,400000,700000,550000,Nio Digital
+AI developer,Bengaluru,3.2,0,200000,800000,500000,SKF
+Developer - Python,Bengaluru,3.6,0,400000,700000,550000,Wipro Limited
+Python Developer (Freshers),Jaipur,4,0,400000,700000,550000,Amplework
+AI/ML Developer,Pune,4.1,0,400000,1100000,750000,"Conference Technologies, Inc."
+AI Developer,Mohali,3.8,0,200000,700000,450000,RChilli Inc.
+AI/ML Developer,Gurgaon,4.1,0,200000,400000,300000,Ajath Infotech
+Gen AI Developer/Specialist - Tamilnadu,Chennai,4.2,0,700000,800000,750000,Photon
+"Cloud Engineer, AI",Bengaluru,4.3,0,300000,900000,600000,Google
+Python programming with AI,Erode,,1,20000,30000,25000,Admire Solution
+EY-GDS Consulting-AI And DATA- Shiny-R developer -Gig,Bengaluru,3.7,0,400000,700000,550000,EY
+AI Developer,Hyderābād,2.7,1,80000,90000,85000,POWER IT SERVICES
+Android Developer - Kotlin,Remote,5,1,20000,55000,37500,Arccus Inc
+AI Agent Developer Intern,India,4.1,1,10000,10000,10000,Techmero
+Front End Developer,Pune,3.2,0,700000,1000000,850000,MicroStrategy India
+Junior Software Developer (Fresher) Internship,Jabalpur,3.7,0,400000,700000,550000,Cognic Systems
+AI Full Stack Developer Intern,Chandigarh,4.3,1,10000,10000,10000,CrossML
+Core Java Developer,Delhi,4,0,800000,1500000,1150000,Roadcast Tech. Solutions Pvt. Ltd.
+Python AI/ML Developer,Mohali,4.1,0,200000,500000,350000,DigiMantra Labs
+NoSQL DBA + Snowflake Developer,Delhi,4,0,600000,1000000,800000,Diro
+Process Developer - cash apps,Hyderābād,3.9,0,400000,900000,650000,Genpact
+AI Engineer/Developer,Hyderābād,4.4,0,600000,800000,700000,DataEconomy
+Junior Software Developer,Bengaluru,3.7,0,500000,800000,650000,Xylem
+Full Stack Developer - Trainee,Cochin,3.7,0,500000,700000,600000,Cami.AI
+UiPath Developer,Remote,4.2,0,2400000,3000000,2700000,"Arch Systems, LLC"
+Frontend developer (Reactjs),Pune,4,0,700000,900000,800000,IAURO SYSTEMS PRIVATE LIMITED
+Generative AI Platform,Bengaluru,3.7,0,300000,400000,350000,CGI
+AI/ML Developer,Tiruchchirāppalli,4.8,0,400000,900000,650000,Macro Global (MG)
+AI/ML Developer - Audio Speech recognition,Bengaluru,3.1,0,500000,700000,600000,LG Soft India
+Unity Developer,Bengaluru,,0,500000,800000,650000,Xogar Games
+AI Developer,India,3.3,1,20000,25000,22500,Cyperts digital solutions private limited
+"Software Developer, AI",Bengaluru,3.4,0,400000,900000,650000,Endpoint Clinical
+React Developer – GravityWrite,Chennai,4.6,0,200000,300000,250000,WebsiteLearners
+Frontend Developers,Remote,4.6,1,80000,80000,80000,SFJ Business solutions
+AI Developer,Mumbai,4.3,0,200000,800000,500000,Arcitech
+Artificial Intelligence Developer/AI Developer,Mohali,4.3,1,50000,60000,55000,Capanicus Technologies
+Backend Engineer,Hyderābād,3.7,0,700000,900000,800000,Zelis
+Python Developer,Hyderābād,4.1,0,300000,700000,500000,Apple
+Junior Developer,Chennai,4,0,500000,900000,700000,Desirous Global Consulting
+Generative AI Developer Freshers,Indore,1,0,300000,500000,400000,CIS
+RPA/AI Developer,Thiruvananthapuram,3.6,0,500000,1000000,750000,Equifax
+Nodejs Developer,India,5,0,1500000,1500000,1500000,We Remote Devs
+Python/ AI and ML Developer,Mohali,3.6,1,16000,68000,42000,Revclerx Pvt Ltd
+Java Developer,Hyderābād,3.6,0,400000,800000,600000,Infosys Limited
+Java Developer,Chennai,,0,1400000,1400000,1400000,Apexon
+Generative AI Developer,Pune,3.9,0,500000,500000,500000,XoriantːIN
+AI Orchestration Developer - Machine Learning Group,Bengaluru,3.9,0,200000,300000,250000,Qualcomm
+Graduate SDE/ SDE - 1 | Generative AI Engineer,Mumbai,3.1,0,800000,1000000,900000,Fynd
+Frontend Developer,Bengaluru,3.7,0,6000000,6400000,6200000,Cyberhaven
+Asp.net Core Developer,Remote,4.2,0,800000,1500000,1150000,nCircle Tech Pvt. Ltd.
+"Front End Developer (HTML, CSS, Tailwind)",Surat,4.5,0,600000,600000,600000,EnactOn Technologies
+RPA DEVELOPER I,Hyderābād,4.1,0,600000,1000000,800000,Electronic Arts
+"Staff Software Developer, Supply Chain Execution",Bengaluru,4,0,400000,900000,650000,Kinaxis Inc.
+Frontend Developer (Immd. Appointment),India,2.9,1,40000,60000,50000,MediaJenie
+Frontend Developer,Gurgaon,3.1,0,200000,500000,350000,HELLO PARENT
+"AI/ML, Chatbot Developer",Chennai,3.6,0,300000,700000,500000,Augray
+Full Stack Developer,Delhi,4,1,80000,2000,41000,DIRO
+AI Platform Developers,Tiruchchirāppalli,2.4,0,200000,700000,450000,Dextrasys
+Salesforce AppExchange Developer,India,4.2,0,1000000,2100000,1550000,Cobalt
+UI Developer-BR-P1,Bengaluru,3.9,0,300000,400000,350000,Atlas Systems
+EY-GDS Consulting-AI And DATA-SQL Developer-Senior,Cochin,3.7,0,300000,400000,350000,EY
+AI Python Engineer,Bengaluru,3.3,0,400000,900000,650000,OpenText
+Fresher - Blockchain developer,Mumbai,3.6,0,400000,500000,450000,Rejolut Technology Solutions Pvt Ltd
+AIML Developer,India,3.9,0,1500000,2000000,1750000,AmpleLogic
+Game Developer,India,3.4,1,35000,60000,47500,Nestsoft technologies
+Python/Django Developer,Haryāna,3.4,0,700000,1000000,850000,Oodles Technologies
+Power Platform Developer,Bengaluru,4.1,0,300000,600000,450000,Autodesk
+Reporting Gen Ai Developer,Hyderābād,3.9,0,400000,800000,600000,PepsiCo
+Python AI/ML Developer,Indore,4,0,500000,700000,600000,Emorphis Technologies
+AI Developer,Pune,4.5,0,400000,600000,500000,PradeepIT Consulting Services
+Python AI/ML Developer,Pune,4.8,0,400000,700000,550000,Ergobite Tech Solutions
+R&D Sr. Software Developer - Frontend,Bengaluru,4,0,500000,800000,650000,ABB
+Java Developer,Noida,4.2,0,300000,800000,550000,Knack Consulting Services Pvt Ltd
+Senior AI/ML Developer,Chennai,3.6,0,700000,1500000,1100000,White Mastery Systems
+Software Developer - Web Application,Chennai,4,0,900000,1000000,950000,McKinsey & Company
+GPU Kernel Developer - AI Models,Bengaluru,3.9,0,500000,600000,550000,"Advanced Micro Devices, Inc"
+Gen AI Developer,Bengaluru,4.4,0,500000,600000,550000,Ailoitte Technologies
+JavaScript - Three.js & P5.js Developer -Immediate Joiner,Remote,,0,500000,1500000,1000000,GiantMind Solutions
+Full Stack Developer – AI Integration & Prompt Engineering,Noida,4.1,0,300000,900000,600000,AvyaTech
+Senior Manager-Customer Support,Remote,4.4,0,1200000,1500000,1350000,Emplay Inc
+React Developer,Hyderābād,,0,200000,700000,450000,TAPADIA TECH
+WordPress Production Developer,Bengaluru,4.2,0,600000,800000,700000,MyAdvice
+AI ML Developer,Mohali,5,0,200000,600000,400000,Pyramid Global Technologies
+Python Developer - Apprenticeship cum Hire,India,4.7,1,8000,10000,9000,Embedsense Solutions Pvt Ltd
+ReactJS Developer,Ahmedabad,4.8,0,300000,500000,400000,Glasier Inc
+Unity Game Developer,Noida,,0,1500000,2500000,2000000,Vintage Solution
+AI/ML Engineer,India,4.5,0,800000,1500000,1150000,OSP Labs Pvt Ltd
+Sr. Python Developer/Chennai,Chennai,,0,1500000,1500000,1500000,Busisol Sourcing India Pvt Ltd
+Software AI Trainee,Hyderābād,4.3,0,300000,500000,400000,[x]cube LABS
+Cloud AI Developer- Bangalore- T1,Bengaluru,1,0,500000,600000,550000,SAP Group
+JavaScript - Three.js & P5.js Developer -Immediate Joiner,Remote,,0,1000000,1500000,1250000,Nithminds Private limited
+AI/ML Engineer,India,4.8,0,400000,400000,400000,Canopas
+UI Path Developer,Chennai,3.9,0,800000,900000,850000,Barclays
+AI Full Stack Product Developer,Chennai,3.8,0,900000,900000,900000,Standard Chartered
+AI/ML Engineer,India,4.2,0,900000,900000,900000,Liamliang Traveller private limited
+Fullstack Developer | Gauze,Mumbai,3.1,0,600000,600000,600000,Fynd
+Technical Support Specialist,Remote,4.2,0,900000,900000,900000,MyAdvice
+Sr Next Js Developer,Remote,4.9,1,1000,1000,1000,Immersive Infotech Pvt. Ltd
+Web Developer,Hyderābād,3.4,0,1000000,1000000,1000000,Zeta Global
+Web & UI Designer,Remote,5,0,300000,500000,400000,InstaCiti.com by Urban Basics
+Software Developer,Bengaluru,3.9,0,300000,700000,500000,The Scalers
+Lead Agentic AI Developer,Bengaluru,4.1,0,700000,1000000,850000,S&P Global
+Support Engineer / Developer (L1/L2 Support),Pune,3.7,0,300000,600000,450000,Altizon Systems
+Backend Developer - Python/Django,Hyderābād,4.5,0,800000,1000000,900000,Aviso AI
+AI/ML Engineer,Hyderābād,4.2,0,600000,900000,750000,Hewlett Packard Enterprise
+GenAI Developer,Chennai,,1,45000,55000,50000,VVT SOLUTIONS PRIVATE LIMITED
+Process Associate - DevOps - English,Hyderābād,3.9,0,200000,400000,300000,Genpact
+Python Developer,Bengaluru,3.5,0,300000,800000,550000,Pattern Effects Labs
+CA0161 | Java Developer,Hyderābād,4,0,300000,700000,500000,Cloudangles
+Management Trainee,Pune,3.9,0,500000,700000,600000,Genpact
+Python Developer with Kubernetes,Bengaluru,3.6,0,400000,700000,550000,Wipro Limited
+Gen AI Developer/ Lead,Bengaluru,3.6,0,400000,700000,550000,Wipro Limited
+Associate - BI Developer,Bengaluru,3.6,0,500000,600000,550000,Acuity Knowledge Partners
+Conversation AI Engineer,Bengaluru,4.3,0,300000,900000,600000,Google
+Node js developer,India,4.1,0,400000,700000,550000,Techmero
+Technology Associate,Bengaluru,4,0,600000,900000,750000,Nasscom
+"Consultant, Python Developer",Noida,3.9,0,400000,900000,650000,Genpact
+Generative AI Developer,Mohali,4.4,0,200000,300000,250000,Talentelgia Technologies
+.NET Full Stack Developer,Bengaluru,,0,1600000,1600000,1600000,hirezy.ai
+ITSS-Azure Databricks Developer- HUMJP000,Bengaluru,3.8,0,400000,600000,500000,NTT DATA
+Python Developer - Kochi,Cochin,3.7,0,100000,600000,350000,Cami.AI
+GEN AI Senior Developer,Chennai,3.7,0,500000,500000,500000,Virtusa
+Staff SW Engineer (Full Stack) – Cybersecurity AI,Bengaluru,3.8,0,200000,800000,500000,Visa
+Gen Ai Engineer,Bengaluru,4.5,0,400000,1700000,1050000,Acrocede Technologies Pvt. Ltd.
+AI Developer,Hyderābād,3.9,0,100000,500000,300000,Pulsus Group
+"Front-end React.js Developer (Part-time, Remote, Freelance role)",Bengaluru,4.7,0,800000,1000000,900000,Indiahikes
+Python Developer (AI/ML Focus),,4.8,0,200000,300000,250000,Eglogics Softech Pvt. Ltd.
+.NET Developer (Web),Bengaluru,,1,86000,86000,86000,hirezy.ai
+Java FrontEnd developer | 1- 4 yrs | Chennai,Chennai,3.5,0,400000,700000,550000,Capgemini Engineering
