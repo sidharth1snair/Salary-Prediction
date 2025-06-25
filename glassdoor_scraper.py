@@ -12,7 +12,8 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
 
-    url = f"https://www.glassdoor.co.in/Job/data-scientist-jobs-SRCH_IN115_KO0,14.htm?sortBy=date_desc"
+    # url = f"https://www.glassdoor.co.in/Job/data-scientist-jobs-SRCH_IN115_KO0,14.htm?sortBy=date_desc"
+    url = "https://www.glassdoor.co.in/Job/india-ai-developer-jobs-SRCH_IL.0,5_IN115_KO6,18.htm"
     driver.get(url)
 
     print("🌐 Website loaded. Expanding job list...")
@@ -121,7 +122,7 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
 
 if __name__ == "__main__":
     keyword = "Data Scientist"
-    num_jobs = 1500
+    num_jobs = 500
     verbose = True
     slp_time = 1
 
