@@ -14,12 +14,21 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
 
     # url = f"https://www.glassdoor.co.in/Job/data-scientist-jobs-SRCH_IN115_KO0,14.htm?sortBy=date_desc"
     # url = "https://www.glassdoor.co.in/Job/india-ai-developer-jobs-SRCH_IL.0,5_IN115_KO6,18.htm"
-    url = "https://www.glassdoor.co.in/Job/india-cloud-engineer-jobs-SRCH_IL.0,5_IN115_KO6,20.htm"
+    url = "https://www.glassdoor.co.in/Job/india-java-developer-jobs-SRCH_IL.0,5_IN115_KO6,20.htm"
     driver.get(url)
+
+    
+    try:
+        close_btn = driver.find_element(By.CLASS_NAME, "CloseButton")
+        close_btn.click()
+        print(" Closed initial popup.")
+    except NoSuchElementException:
+        print(" No initial popup found.")
+
 
     print("🌐 Website loaded. Expanding job list...")
 
-    # Step 2: Keep clicking "Show more jobs" until enough are loaded
+    #  Keep clicking "Show more jobs" until enough are loaded
     while True:
         time.sleep(slp_time)
 
@@ -27,16 +36,21 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
             driver.find_element(By.CLASS_NAME, "eigr9kq2").click()
         except (NoSuchElementException, ElementClickInterceptedException):
             pass
+        
+
         try:
-            driver.find_element(By.CLASS_NAME, "modal_closeIcon").click()
+            close_popup = driver.find_element(By.CLASS_NAME, "CloseButton")
+            close_popup.click()
+            print("❌ Closed popup.")
         except NoSuchElementException:
             pass
+
 
         job_cards = driver.find_elements(By.CSS_SELECTOR, 'li[class*="JobsList_jobListItem"]')
         print(f"🔎 Found {len(job_cards)} job cards")
 
         if len(job_cards) >= num_jobs:
-            print("✅ Loaded enough jobs. Proceeding to scrape...")
+            print("Loaded enough jobs. Proceeding to scrape...")
             break
 
         # Scroll and try to click "Show more jobs"
@@ -47,13 +61,13 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
             show_more_btn = driver.find_element(By.XPATH, '//button[@data-test="load-more"]')
             if show_more_btn.is_displayed():
                 driver.execute_script("arguments[0].click();", show_more_btn)
-                print("🟩 Clicked 'Show more jobs'")
+                print("Clicked 'Show more jobs'")
                 time.sleep(2)
         except NoSuchElementException:
             print("❌ 'Show more jobs' button not found — may have reached the end.")
             break
 
-    # Step 3: Scrape job data
+    # Scrape job data
     jobs = []
     seen_jobs = set()
     job_cards = driver.find_elements(By.CSS_SELECTOR, 'li[class*="JobsList_jobListItem"]')
@@ -102,7 +116,7 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
             seen_jobs.add(job_id)
 
             if verbose:
-                print(f"✅ {job_title} | {company_name} | {location} | {salary_estimate} | {rating}")
+                print(f"🟢 {job_title} | {company_name} | {location} | {salary_estimate} | {rating}")
 
             jobs.append({
                 "Job Title": job_title,
@@ -123,10 +137,10 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
 
 if __name__ == "__main__":
     keyword = "Data Scientist"
-    num_jobs = 400
+    num_jobs = 10
     verbose = True
     slp_time = 1
 
     df = get_jobs(keyword, num_jobs, verbose, slp_time)
-    df.to_csv("glassdoor_jobs_cloud_engg.csv", index=False)
-    print("\n📁 Saved scraped data to 'glassdoor_jobs_cloud_engg.csv'")
+    df.to_csv("glassdoor_jobs_test.csv", index=False)
+    print("\n📁 Saved scraped data to 'glassdoor_jobs_java.csv'")
