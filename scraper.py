@@ -6,7 +6,7 @@ import pandas as pd
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 
-def get_jobs(keyword, num_jobs, verbose, slp_time):
+def get_jobs(num_jobs, verbose, slp_time):
     options = webdriver.ChromeOptions()
     options.add_argument("--start-maximized")
     service = Service(ChromeDriverManager().install())
@@ -136,11 +136,11 @@ def get_jobs(keyword, num_jobs, verbose, slp_time):
 
 
 if __name__ == "__main__":
-    keyword = "Data Scientist"
-    num_jobs = 10
+    
+    num_jobs = 50
     verbose = True
     slp_time = 1
 
-    df = get_jobs(keyword, num_jobs, verbose, slp_time)
-    df.to_csv("glassdoor_jobs_test.csv", index=False)
-    print("\n📁 Saved scraped data to 'glassdoor_jobs_java.csv'")
+    df = get_jobs(num_jobs, verbose, slp_time)
+    df.to_csv("glassdoor_jobs.csv", index=False)
+    print("\n📁 Saved scraped data to 'glassdoor_jobs.csv'")
