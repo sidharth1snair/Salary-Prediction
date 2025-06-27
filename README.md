@@ -13,7 +13,7 @@ This project predicts job salaries using machine learning models trained on data
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
-- [Results](#results)
+
 
 
 ---
@@ -56,10 +56,9 @@ Salary-Prediction/
 │ └── glassdoor_cleaned_new.csv
 │
 ├── notebooks/
-│ ├── 01_scraping_jobs.ipynb
-│ ├── 02_cleaning_salary_data.ipynb
-│ ├── 03_eda_and_visualizations.ipynb
-│ └── 04_modeling_and_prediction.ipynb
+│ ├── 01_cleaning_salary_data.ipynb
+│ ├── 02_eda_and_visualizations.ipynb
+│ └── 03_modeling_and_prediction.ipynb
 │
 ├── scripts/
 │ └── scraper.py
@@ -86,13 +85,4 @@ cd Salary-Prediction
 pip install -r requirements.txt
 
 ```
-### 3. Run Jupyter notebooks
-Open each .ipynb notebook in order:
 
-#### 1. scraping_jobs.py — Scrape and save job listings
-
-#### 2. cleaning_salary_data.ipynb — Clean, extract salary info, generalize roles
-
-#### 3. eda_and_visualizations.ipynb — Plot salary trends, distributions, and insights
-
-#### 4. modeling_and_prediction.ipynb — Train ML models and evaluate
